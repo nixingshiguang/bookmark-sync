@@ -1,0 +1,6786 @@
+{
+  "bookmarks": [
+    {
+      "id": "212",
+      "name": "A.I.O",
+      "url": null,
+      "parentId": "1",
+      "index": 4,
+      "dateAdded": 1664247994489,
+      "dateGroupModified": 1753530514241,
+      "isFolder": true
+    },
+    {
+      "id": "1124",
+      "name": "NAS系统",
+      "url": null,
+      "parentId": "212",
+      "index": 0,
+      "dateAdded": 1737680705626,
+      "dateGroupModified": 1752632050027,
+      "isFolder": true
+    },
+    {
+      "id": "1125",
+      "name": "飞牛",
+      "url": null,
+      "parentId": "1124",
+      "index": 0,
+      "dateAdded": 1737680740496,
+      "dateGroupModified": 1739168191559,
+      "isFolder": true
+    },
+    {
+      "id": "118",
+      "name": "飞牛私有云 fnOS",
+      "url": "https://www.fnnas.com/download",
+      "parentId": "1125",
+      "index": 0,
+      "dateAdded": 1724812551231,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "734",
+      "name": "论坛",
+      "url": "https://club.fnnas.com/",
+      "parentId": "1125",
+      "index": 1,
+      "dateAdded": 1726791970891,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "231",
+      "name": "黑群晖",
+      "url": null,
+      "parentId": "1124",
+      "index": 1,
+      "dateAdded": 1719033843856,
+      "dateGroupModified": 1746232921611,
+      "isFolder": true
+    },
+    {
+      "id": "232",
+      "name": "引导-RR Org",
+      "url": "https://rrorg.cn/",
+      "parentId": "231",
+      "index": 0,
+      "dateAdded": 1719033816895,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "234",
+      "name": "群晖下载中心",
+      "url": "https://archive.synology.cn/download",
+      "parentId": "231",
+      "index": 1,
+      "dateAdded": 1722660782738,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "233",
+      "name": "windows读取linux格式磁盘",
+      "url": "https://github.com/maharmstone/btrfs",
+      "parentId": "231",
+      "index": 2,
+      "dateAdded": 1719123761404,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1579",
+      "name": "拾光坞",
+      "url": null,
+      "parentId": "1124",
+      "index": 2,
+      "dateAdded": 1748696809072,
+      "dateGroupModified": 1748701140873,
+      "isFolder": true
+    },
+    {
+      "id": "1578",
+      "name": "拾光坞官网",
+      "url": "https://www.sgwbox.com/",
+      "parentId": "1579",
+      "index": 0,
+      "dateAdded": 1748696776685,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1581",
+      "name": "绿联私有云",
+      "url": null,
+      "parentId": "1124",
+      "index": 3,
+      "dateAdded": 1748701151967,
+      "dateGroupModified": 1748737767919,
+      "isFolder": true
+    },
+    {
+      "id": "1580",
+      "name": "绿联NAS私有云官网 - 更懂你的数据中心 - 绿联云",
+      "url": "https://www.ugnas.com/",
+      "parentId": "1581",
+      "index": 0,
+      "dateAdded": 1748701140873,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1582",
+      "name": "申请体验账号",
+      "url": "https://www.ugnas.com/experience/#/pc-home",
+      "parentId": "1581",
+      "index": 1,
+      "dateAdded": 1748701482000,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1799",
+      "name": "NasCab 云可云",
+      "url": "https://www.nascab.cn/",
+      "parentId": "1124",
+      "index": 4,
+      "dateAdded": 1752632042310,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1481",
+      "name": "路由系统",
+      "url": null,
+      "parentId": "212",
+      "index": 1,
+      "dateAdded": 1746345390698,
+      "dateGroupModified": 1746356502343,
+      "isFolder": true
+    },
+    {
+      "id": "245",
+      "name": "Openwrt",
+      "url": null,
+      "parentId": "1481",
+      "index": 0,
+      "dateAdded": 1721703610854,
+      "dateGroupModified": 1724049856016,
+      "isFolder": true
+    },
+    {
+      "id": "246",
+      "name": "OpenWrt固件下载与在线定制编译",
+      "url": "https://supes.top/?version=22.03&target=x86%2F64&id=generic",
+      "parentId": "245",
+      "index": 0,
+      "dateAdded": 1682818744051,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "247",
+      "name": "官网",
+      "url": "https://openwrt.org/start",
+      "parentId": "245",
+      "index": 1,
+      "dateAdded": 1723000243764,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "250",
+      "name": "OpenWrt Wiki",
+      "url": "https://openwrt.org/zh/start",
+      "parentId": "245",
+      "index": 2,
+      "dateAdded": 1664248861231,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "251",
+      "name": "Bleach OpenWrt",
+      "url": "https://openwrt.mpdn.fun:8443/",
+      "parentId": "245",
+      "index": 3,
+      "dateAdded": 1724049856016,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1482",
+      "name": "ImmortalWrt",
+      "url": null,
+      "parentId": "1481",
+      "index": 1,
+      "dateAdded": 1746345432051,
+      "dateGroupModified": 1746345473339,
+      "isFolder": true
+    },
+    {
+      "id": "248",
+      "name": "ImmortalWrt",
+      "url": "https://firmware-selector.immortalwrt.org/",
+      "parentId": "1482",
+      "index": 0,
+      "dateAdded": 1723000288187,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1474",
+      "name": "iStoreOS",
+      "url": null,
+      "parentId": "1481",
+      "index": 2,
+      "dateAdded": 1745645050925,
+      "dateGroupModified": 1745645050926,
+      "isFolder": true
+    },
+    {
+      "id": "1473",
+      "name": "官网",
+      "url": "https://site.istoreos.com/",
+      "parentId": "1474",
+      "index": 0,
+      "dateAdded": 1745645028163,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1639",
+      "name": "网盘聚合项目",
+      "url": null,
+      "parentId": "212",
+      "index": 2,
+      "dateAdded": 1749628411860,
+      "dateGroupModified": 1754089852656,
+      "isFolder": true
+    },
+    {
+      "id": "1645",
+      "name": "OpenList",
+      "url": null,
+      "parentId": "1639",
+      "index": 0,
+      "dateAdded": 1749726110650,
+      "dateGroupModified": 1752623767865,
+      "isFolder": true
+    },
+    {
+      "id": "1644",
+      "name": "OpenList Token 获取工具（境外）",
+      "url": "https://api.oplist.org/",
+      "parentId": "1645",
+      "index": 0,
+      "dateAdded": 1749726097193,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1646",
+      "name": "OpenList Team",
+      "url": "https://github.com/OpenListTeam",
+      "parentId": "1645",
+      "index": 1,
+      "dateAdded": 1749726153870,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1650",
+      "name": "Home | OpenList 文档",
+      "url": "https://openlist.team/zh/",
+      "parentId": "1645",
+      "index": 2,
+      "dateAdded": 1749912467840,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1797",
+      "name": "OpenList Token 获取工具（中国大陆）",
+      "url": "https://api.oplist.org.cn/",
+      "parentId": "1645",
+      "index": 3,
+      "dateAdded": 1752560549881,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "744",
+      "name": "Alist",
+      "url": null,
+      "parentId": "1639",
+      "index": 1,
+      "dateAdded": 1727244092887,
+      "dateGroupModified": 1730681300640,
+      "isFolder": true
+    },
+    {
+      "id": "255",
+      "name": "Alist",
+      "url": "https://alistgo.com/zh/",
+      "parentId": "744",
+      "index": 0,
+      "dateAdded": 1706791602825,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "301",
+      "name": "Alist 安稳大佬",
+      "url": "https://anwen-anyi.github.io/",
+      "parentId": "744",
+      "index": 1,
+      "dateAdded": 1691062867499,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1640",
+      "name": "zfile",
+      "url": null,
+      "parentId": "1639",
+      "index": 2,
+      "dateAdded": 1749628411861,
+      "dateGroupModified": 1749628416531,
+      "isFolder": true
+    },
+    {
+      "id": "1638",
+      "name": "ZFile 官网",
+      "url": "https://www.zfile.vip/",
+      "parentId": "1640",
+      "index": 0,
+      "dateAdded": 1749628378096,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1641",
+      "name": "开源版部署教程 | ZFile Docs",
+      "url": "https://docs.zfile.vip/install-os/",
+      "parentId": "1640",
+      "index": 1,
+      "dateAdded": 1749628416531,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "238",
+      "name": "PT",
+      "url": null,
+      "parentId": "212",
+      "index": 3,
+      "dateAdded": 1718098984200,
+      "dateGroupModified": 1720616016375,
+      "isFolder": true
+    },
+    {
+      "id": "239",
+      "name": "CD File",
+      "url": "https://pt.cdfile.org/attendance.php",
+      "parentId": "238",
+      "index": 0,
+      "dateAdded": 1718098964827,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "240",
+      "name": "PTTime",
+      "url": "https://www.pttime.org/attendance.php?uid=61336&type=append_sign&append_sign=3",
+      "parentId": "238",
+      "index": 1,
+      "dateAdded": 1720616016375,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "241",
+      "name": "青龙面板",
+      "url": null,
+      "parentId": "212",
+      "index": 4,
+      "dateAdded": 1714110966067,
+      "dateGroupModified": 1741054820150,
+      "isFolder": true
+    },
+    {
+      "id": "1082",
+      "name": "官方文档",
+      "url": "https://qinglong.online/index",
+      "parentId": "241",
+      "index": 0,
+      "dateAdded": 1736899517051,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "242",
+      "name": "获取美团cookie",
+      "url": "https://passport.meituan.com/useraccount/ilogin?backurl=https://i.meituan.com&risk_app=-1&risk_partner=-1&risk_platform=-1",
+      "parentId": "241",
+      "index": 1,
+      "dateAdded": 1708855277690,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1221",
+      "name": "Arcadia",
+      "url": null,
+      "parentId": "212",
+      "index": 5,
+      "dateAdded": 1739171143229,
+      "dateGroupModified": 1739171771927,
+      "isFolder": true
+    },
+    {
+      "id": "1220",
+      "name": "官网",
+      "url": "https://arcadia.cool/",
+      "parentId": "1221",
+      "index": 0,
+      "dateAdded": 1739171117381,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "745",
+      "name": "媒体库&播放器",
+      "url": null,
+      "parentId": "212",
+      "index": 6,
+      "dateAdded": 1727244222125,
+      "dateGroupModified": 1745321713871,
+      "isFolder": true
+    },
+    {
+      "id": "746",
+      "name": "Emby",
+      "url": null,
+      "parentId": "745",
+      "index": 0,
+      "dateAdded": 1727244234380,
+      "dateGroupModified": 1739067334970,
+      "isFolder": true
+    },
+    {
+      "id": "256",
+      "name": "Emby主题修改",
+      "url": "https://docs.theme-park.dev/themes/emby/",
+      "parentId": "746",
+      "index": 0,
+      "dateAdded": 1711627542568,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "257",
+      "name": "NAS中各种主题修改",
+      "url": "https://mp.weixin.qq.com/s/YmuAeCKu4w7dzQlZcVYrmQ",
+      "parentId": "746",
+      "index": 1,
+      "dateAdded": 1711628837115,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "258",
+      "name": "theme.park Docs",
+      "url": "https://docs.theme-park.dev/",
+      "parentId": "746",
+      "index": 2,
+      "dateAdded": 1722866558575,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1143",
+      "name": "amilys/embyserver",
+      "url": "https://hub.docker.com/r/amilys/embyserver",
+      "parentId": "746",
+      "index": 3,
+      "dateAdded": 1737889995376,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "259",
+      "name": "扫描webdav的目录，并批量生成strm文件",
+      "url": "https://xiaoyaliu.notion.site/webdav-strm-464b1fe784a6420f931235be55dd5f64",
+      "parentId": "746",
+      "index": 4,
+      "dateAdded": 1711856938800,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1201",
+      "name": "Ghosten Player",
+      "url": "https://github.com/GhostenEditor/Ghosten-Player?tab=readme-ov-file#user-content-fn-1-421f8d0dc847a4b9f33c7129ab5a4f43",
+      "parentId": "745",
+      "index": 1,
+      "dateAdded": 1738907068070,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1292",
+      "name": "ThePornDB",
+      "url": "https://theporndb.net/",
+      "parentId": "745",
+      "index": 2,
+      "dateAdded": 1740894593679,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1391",
+      "name": "strm生成",
+      "url": null,
+      "parentId": "745",
+      "index": 3,
+      "dateAdded": 1742733848299,
+      "dateGroupModified": 1742733848299,
+      "isFolder": true
+    },
+    {
+      "id": "1392",
+      "name": "autofilm",
+      "url": null,
+      "parentId": "1391",
+      "index": 0,
+      "dateAdded": 1742733848299,
+      "dateGroupModified": 1742733851149,
+      "isFolder": true
+    },
+    {
+      "id": "1390",
+      "name": "AutoFilm说明文档 | 秋澪的博客",
+      "url": "https://blog.akimio.top/posts/1031/",
+      "parentId": "1392",
+      "index": 0,
+      "dateAdded": 1742733807767,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1393",
+      "name": "Akimio521/AutoFilm: 一个为Emby、Jellyfin服务器提供Strm直链播放的小项目，推荐配合MediaWarp使用",
+      "url": "https://github.com/Akimio521/AutoFilm?tab=readme-ov-file",
+      "parentId": "1392",
+      "index": 1,
+      "dateAdded": 1742733851149,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1457",
+      "name": "LibreELEC中文网",
+      "url": "http://www.kodiplayer.cn/LibreELEC/",
+      "parentId": "745",
+      "index": 4,
+      "dateAdded": 1745022277608,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1820",
+      "name": "TV",
+      "url": null,
+      "parentId": "745",
+      "index": 5,
+      "dateAdded": 1753061603214,
+      "dateGroupModified": 1753419027501,
+      "isFolder": true
+    },
+    {
+      "id": "1819",
+      "name": "zimplexing/OrionTV",
+      "url": "https://github.com/zimplexing/OrionTV?tab=readme-ov-file",
+      "parentId": "1820",
+      "index": 0,
+      "dateAdded": 1753061577338,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1843",
+      "name": "zimplexing/OrionTV: 一个基于 React Native TVOS 和 Expo 构建的跨平台电视应用，旨在提供流畅的视频观看体验。",
+      "url": "https://github.com/zimplexing/OrionTV",
+      "parentId": "1820",
+      "index": 1,
+      "dateAdded": 1753404422693,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1822",
+      "name": "直播源",
+      "url": null,
+      "parentId": "745",
+      "index": 6,
+      "dateAdded": 1753063886092,
+      "dateGroupModified": 1753064727461,
+      "isFolder": true
+    },
+    {
+      "id": "1821",
+      "name": "suxuang/myIPTV: 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告",
+      "url": "https://github.com/suxuang/myIPTV?tab=readme-ov-file",
+      "parentId": "1822",
+      "index": 0,
+      "dateAdded": 1753063871094,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1823",
+      "name": "世界各地的iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "parentId": "1822",
+      "index": 1,
+      "dateAdded": 1753064315849,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1824",
+      "name": "fanmingming/live: ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+      "url": "https://github.com/fanmingming/live?tab=readme-ov-file",
+      "parentId": "1822",
+      "index": 2,
+      "dateAdded": 1753064727461,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "691",
+      "name": "采集站",
+      "url": null,
+      "parentId": "212",
+      "index": 7,
+      "dateAdded": 1725593710122,
+      "dateGroupModified": 1752972879992,
+      "isFolder": true
+    },
+    {
+      "id": "799",
+      "name": "站点",
+      "url": null,
+      "parentId": "691",
+      "index": 0,
+      "dateAdded": 1728873849279,
+      "dateGroupModified": 1752888748142,
+      "isFolder": true
+    },
+    {
+      "id": "798",
+      "name": "色猫（嗝屁了）",
+      "url": "https://semaozy1.com/",
+      "parentId": "799",
+      "index": 0,
+      "dateAdded": 1728873823561,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "802",
+      "name": "暴风",
+      "url": "https://bfzy.tv/help/",
+      "parentId": "799",
+      "index": 1,
+      "dateAdded": 1728874324041,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "818",
+      "name": "快车",
+      "url": "https://kuaichezy.com/",
+      "parentId": "799",
+      "index": 2,
+      "dateAdded": 1728962137997,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "820",
+      "name": "闪电",
+      "url": "https://shandianzy.com/",
+      "parentId": "799",
+      "index": 3,
+      "dateAdded": 1728962513498,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "821",
+      "name": "无尽",
+      "url": "https://wujinzy.com/",
+      "parentId": "799",
+      "index": 4,
+      "dateAdded": 1728963938421,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "824",
+      "name": "最大",
+      "url": "https://zuidazy.co/",
+      "parentId": "799",
+      "index": 5,
+      "dateAdded": 1728964552978,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "825",
+      "name": "牛牛",
+      "url": "https://niuniuzy.cc/",
+      "parentId": "799",
+      "index": 6,
+      "dateAdded": 1728964820705,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "826",
+      "name": "鸭鸭",
+      "url": "https://yayazy.com/",
+      "parentId": "799",
+      "index": 7,
+      "dateAdded": 1728964850584,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "827",
+      "name": "非凡",
+      "url": "http://www.ffzy.tv/",
+      "parentId": "799",
+      "index": 8,
+      "dateAdded": 1728967899822,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1810",
+      "name": "瀑布盘资源网",
+      "url": "https://www.pbpan.com/",
+      "parentId": "799",
+      "index": 9,
+      "dateAdded": 1752886666576,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "690",
+      "name": "苹果cms盒子",
+      "url": "https://www.maccmsbox.com/",
+      "parentId": "691",
+      "index": 1,
+      "dateAdded": 1725593696711,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "817",
+      "name": "苹果CMS内容管理系统",
+      "url": "https://www.maccms.la/",
+      "parentId": "691",
+      "index": 2,
+      "dateAdded": 1728962014967,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "803",
+      "name": "爱影CMS",
+      "url": "https://www.iycms.com/index.html",
+      "parentId": "691",
+      "index": 3,
+      "dateAdded": 1728877482422,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "819",
+      "name": "牛牛站长",
+      "url": "https://niuniubbs.com/",
+      "parentId": "691",
+      "index": 4,
+      "dateAdded": 1728962169568,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1209",
+      "name": "播放器",
+      "url": null,
+      "parentId": "691",
+      "index": 5,
+      "dateAdded": 1739005680252,
+      "dateGroupModified": 1739006899818,
+      "isFolder": true
+    },
+    {
+      "id": "1210",
+      "name": "zyfun",
+      "url": null,
+      "parentId": "1209",
+      "index": 0,
+      "dateAdded": 1739005680252,
+      "dateGroupModified": 1739084376054,
+      "isFolder": true
+    },
+    {
+      "id": "1208",
+      "name": "github",
+      "url": "https://github.com/Hiram-Wong/ZyPlayer",
+      "parentId": "1210",
+      "index": 0,
+      "dateAdded": 1739005646156,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1207",
+      "name": "zyfun",
+      "url": "https://zy.catni.cn/",
+      "parentId": "1210",
+      "index": 1,
+      "dateAdded": 1739004594368,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1811",
+      "name": "猫影视TV配置编辑器",
+      "url": "https://zhixc.github.io/CatVodTVJsonEditor/",
+      "parentId": "691",
+      "index": 6,
+      "dateAdded": 1752888748142,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "182",
+      "name": "监控",
+      "url": null,
+      "parentId": "212",
+      "index": 8,
+      "dateAdded": 1682836297353,
+      "dateGroupModified": 1753001354721,
+      "isFolder": true
+    },
+    {
+      "id": "1058",
+      "name": "哪吒",
+      "url": null,
+      "parentId": "182",
+      "index": 0,
+      "dateAdded": 1736328443334,
+      "dateGroupModified": 1737012909644,
+      "isFolder": true
+    },
+    {
+      "id": "185",
+      "name": "哪吒监控",
+      "url": "https://nezha.wiki/",
+      "parentId": "1058",
+      "index": 0,
+      "dateAdded": 1694613489976,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1057",
+      "name": "哪吒公开信息生成器",
+      "url": "https://nezhainfojson.pages.dev/",
+      "parentId": "1058",
+      "index": 1,
+      "dateAdded": 1736328313252,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1059",
+      "name": "哪吒探针设置工具",
+      "url": "https://nz.1keji.net/",
+      "parentId": "1058",
+      "index": 2,
+      "dateAdded": 1736337679428,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1075",
+      "name": "【存】全国各省份三网 TCP-Ping IPv6 地址",
+      "url": "https://www.nodeseek.com/post-129987-1",
+      "parentId": "1058",
+      "index": 3,
+      "dateAdded": 1736664142925,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1076",
+      "name": "【存】全国各省份三网 TCP-Ping IPv4 地址",
+      "url": "https://www.nodeseek.com/post-68572-1",
+      "parentId": "1058",
+      "index": 4,
+      "dateAdded": 1736664157366,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1086",
+      "name": "哪吒监控 V1 使用唯一域名开启 CDN 和反向代理配置教程 - 𝐌𝐈𝐒𝐀𝐊𝐀.𝐄𝐒",
+      "url": "https://misaka.es/archives/42.html",
+      "parentId": "1058",
+      "index": 5,
+      "dateAdded": 1737006903262,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1817",
+      "name": "coolmonitor",
+      "url": "https://github.com/star7th/coolmonitor",
+      "parentId": "182",
+      "index": 1,
+      "dateAdded": 1752995718704,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1688",
+      "name": "消息推送",
+      "url": null,
+      "parentId": "212",
+      "index": 9,
+      "dateAdded": 1750726198495,
+      "dateGroupModified": 1753530562925,
+      "isFolder": true
+    },
+    {
+      "id": "1855",
+      "name": "showdoc",
+      "url": null,
+      "parentId": "1688",
+      "index": 0,
+      "dateAdded": 1753530541019,
+      "dateGroupModified": 1753530549386,
+      "isFolder": true
+    },
+    {
+      "id": "1815",
+      "name": "ShowDovc",
+      "url": "https://push.showdoc.com.cn/#/",
+      "parentId": "1855",
+      "index": 0,
+      "dateAdded": 1752994521020,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1689",
+      "name": "息知",
+      "url": null,
+      "parentId": "1688",
+      "index": 1,
+      "dateAdded": 1750726198495,
+      "dateGroupModified": 1750735174656,
+      "isFolder": true
+    },
+    {
+      "id": "1687",
+      "name": "首页 - 息知",
+      "url": "https://xz.qqoq.net/#/index",
+      "parentId": "1689",
+      "index": 0,
+      "dateAdded": 1750726174066,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1857",
+      "name": "pushplus",
+      "url": null,
+      "parentId": "1688",
+      "index": 2,
+      "dateAdded": 1753530585491,
+      "dateGroupModified": 1753580689499,
+      "isFolder": true
+    },
+    {
+      "id": "1856",
+      "name": "pushplus(推送加)",
+      "url": "https://www.pushplus.plus/",
+      "parentId": "1857",
+      "index": 0,
+      "dateAdded": 1753530562925,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1846",
+      "name": "运维面板",
+      "url": null,
+      "parentId": "212",
+      "index": 10,
+      "dateAdded": 1753511361034,
+      "dateGroupModified": 1753708150673,
+      "isFolder": true
+    },
+    {
+      "id": "1847",
+      "name": "耗子面板",
+      "url": null,
+      "parentId": "1846",
+      "index": 0,
+      "dateAdded": 1753511361034,
+      "dateGroupModified": 1753512504734,
+      "isFolder": true
+    },
+    {
+      "id": "1845",
+      "name": "耗子面板",
+      "url": "https://ratpanel.github.io/zh_CN/",
+      "parentId": "1847",
+      "index": 0,
+      "dateAdded": 1753511335890,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1848",
+      "name": "论坛",
+      "url": "https://tom.moe/c/technical/ratpanel/51",
+      "parentId": "1847",
+      "index": 1,
+      "dateAdded": 1753511368932,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1872",
+      "name": "OpenResty Manager",
+      "url": null,
+      "parentId": "1846",
+      "index": 1,
+      "dateAdded": 1753927568058,
+      "dateGroupModified": 1753927568058,
+      "isFolder": true
+    },
+    {
+      "id": "1858",
+      "name": "官网",
+      "url": "https://github.com/Safe3/openresty-manager",
+      "parentId": "1872",
+      "index": 0,
+      "dateAdded": 1753580689499,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "82",
+      "name": "Aria2 Pro",
+      "url": "https://p3terx.com/archives/docker-aria2-pro.html",
+      "parentId": "212",
+      "index": 11,
+      "dateAdded": 1695340891190,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1774",
+      "name": "DockPorts - 端口监控工具",
+      "url": "https://github.com/coracoo/DockPorts",
+      "parentId": "212",
+      "index": 12,
+      "dateAdded": 1751765858170,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "264",
+      "name": "网盘",
+      "url": null,
+      "parentId": "1",
+      "index": 5,
+      "dateAdded": 1678615131417,
+      "dateGroupModified": 1724396606354,
+      "isFolder": true
+    },
+    {
+      "id": "265",
+      "name": "网盘",
+      "url": null,
+      "parentId": "264",
+      "index": 0,
+      "dateAdded": 1723981845289,
+      "dateGroupModified": 1747534707063,
+      "isFolder": true
+    },
+    {
+      "id": "273",
+      "name": "坚果云",
+      "url": "https://www.jianguoyun.com/#/",
+      "parentId": "265",
+      "index": 0,
+      "dateAdded": 1696895512899,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "278",
+      "name": "115",
+      "url": "https://115.com/",
+      "parentId": "265",
+      "index": 1,
+      "dateAdded": 1716595471188,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "274",
+      "name": "天翼云盘",
+      "url": "https://cloud.189.cn/",
+      "parentId": "265",
+      "index": 2,
+      "dateAdded": 1700717495965,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "269",
+      "name": "夸克网盘",
+      "url": "https://pan.quark.cn/list#/list/all",
+      "parentId": "265",
+      "index": 3,
+      "dateAdded": 1678615215511,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "271",
+      "name": "中国移动云盘",
+      "url": "https://yun.139.com/w/#/main?linkshare=2",
+      "parentId": "265",
+      "index": 4,
+      "dateAdded": 1678687201576,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "267",
+      "name": "123云盘",
+      "url": "https://www.123pan.com/login",
+      "parentId": "265",
+      "index": 5,
+      "dateAdded": 1678615181379,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "268",
+      "name": "阿里云盘",
+      "url": "https://www.aliyundrive.com/drive",
+      "parentId": "265",
+      "index": 6,
+      "dateAdded": 1678615191792,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "270",
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/disk/main#/index?category=all",
+      "parentId": "265",
+      "index": 7,
+      "dateAdded": 1678615235705,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "266",
+      "name": "小飞机网盘",
+      "url": "https://www.feijipan.com/",
+      "parentId": "265",
+      "index": 8,
+      "dateAdded": 1678615108996,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "272",
+      "name": "蓝奏云",
+      "url": "https://www.lanzou.com/",
+      "parentId": "265",
+      "index": 9,
+      "dateAdded": 1693822885051,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "276",
+      "name": "联通云盘",
+      "url": "https://pan.wo.cn/",
+      "parentId": "265",
+      "index": 10,
+      "dateAdded": 1714024190857,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "277",
+      "name": "腾讯微云",
+      "url": "https://www.weiyun.com/",
+      "parentId": "265",
+      "index": 11,
+      "dateAdded": 1714024964371,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "280",
+      "name": "迅雷云盘",
+      "url": "https://pan.xunlei.com/",
+      "parentId": "265",
+      "index": 12,
+      "dateAdded": 1724736646269,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1464",
+      "name": "PikPak 云盘",
+      "url": "https://mypikpak.com/drive/all",
+      "parentId": "265",
+      "index": 13,
+      "dateAdded": 1745552246796,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "292",
+      "name": "OneDrive",
+      "url": "https://6q2j7s-my.sharepoint.com/",
+      "parentId": "265",
+      "index": 14,
+      "dateAdded": 1724396606354,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "275",
+      "name": "Google 云端硬盘",
+      "url": "https://drive.google.com/drive/home",
+      "parentId": "265",
+      "index": 15,
+      "dateAdded": 1714023579151,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "281",
+      "name": "网盘搜索",
+      "url": null,
+      "parentId": "264",
+      "index": 1,
+      "dateAdded": 1714109723057,
+      "dateGroupModified": 1742205875852,
+      "isFolder": true
+    },
+    {
+      "id": "282",
+      "name": "小白盘",
+      "url": "https://www.xiaobaipan.com/",
+      "parentId": "281",
+      "index": 0,
+      "dateAdded": 1714109665961,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "283",
+      "name": "懒盘搜索",
+      "url": "https://www.lzpanx.com/",
+      "parentId": "281",
+      "index": 1,
+      "dateAdded": 1714109738109,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "284",
+      "name": "资源精灵",
+      "url": "https://www.bifangpu.com/",
+      "parentId": "281",
+      "index": 2,
+      "dateAdded": 1714109760338,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "285",
+      "name": "盘友圈",
+      "url": "https://panyq.com/",
+      "parentId": "281",
+      "index": 3,
+      "dateAdded": 1714109778277,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "286",
+      "name": "学霸盘",
+      "url": "https://www.xuebapan.com/?dalao.ru",
+      "parentId": "281",
+      "index": 4,
+      "dateAdded": 1714109889611,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "288",
+      "name": "爱盼-网盘资源搜索",
+      "url": "https://so.aicompasspro.com/",
+      "parentId": "281",
+      "index": 5,
+      "dateAdded": 1725257730758,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1128",
+      "name": "盘搜-找网盘资源就上盘搜pro！",
+      "url": "https://panso.pro/",
+      "parentId": "281",
+      "index": 6,
+      "dateAdded": 1737683043462,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1313",
+      "name": "jiangrui1994/CloudSaver: 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。",
+      "url": "https://github.com/jiangrui1994/CloudSaver",
+      "parentId": "281",
+      "index": 7,
+      "dateAdded": 1741162434299,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1327",
+      "name": "123云盘社区",
+      "url": "https://123.panbox.my/",
+      "parentId": "281",
+      "index": 8,
+      "dateAdded": 1741433506918,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1345",
+      "name": "SkrBT - 专业的种子搜索、磁力链接搜索引擎",
+      "url": "https://skrbtso.top/",
+      "parentId": "281",
+      "index": 9,
+      "dateAdded": 1741779112659,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1363",
+      "name": "CloudSaver",
+      "url": "https://cloudsaver.160621.xyz/resource",
+      "parentId": "281",
+      "index": 10,
+      "dateAdded": 1742176349491,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "289",
+      "name": "网盘解析",
+      "url": null,
+      "parentId": "264",
+      "index": 2,
+      "dateAdded": 1723163851786,
+      "dateGroupModified": 1755819879242,
+      "isFolder": true
+    },
+    {
+      "id": "1131",
+      "name": "百度",
+      "url": "https://gaojilingjuli.blogspot.com/2025/01/2025.html",
+      "parentId": "289",
+      "index": 0,
+      "dateAdded": 1737710666798,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1205",
+      "name": "百度网盘 - K胖解析",
+      "url": "https://wsppt.top/#/index",
+      "parentId": "289",
+      "index": 1,
+      "dateAdded": 1739004125844,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1206",
+      "name": "K胖解析永久地址发布页",
+      "url": "https://91prohub.top/",
+      "parentId": "289",
+      "index": 2,
+      "dateAdded": 1739004196745,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1776",
+      "name": "ODE v1.1.4 官方版 (自窝挖坑多功能生态应用) | 克隆窝",
+      "url": "https://www.uy5.net/ode/",
+      "parentId": "289",
+      "index": 3,
+      "dateAdded": 1751852360194,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1910",
+      "name": "OpenSpeedy",
+      "url": "https://github.com/game1024/OpenSpeedy?tab=readme-ov-file",
+      "parentId": "289",
+      "index": 4,
+      "dateAdded": 1755650001085,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1911",
+      "name": "ode密钥购买",
+      "url": "https://www.shidifuvip.top/",
+      "parentId": "289",
+      "index": 5,
+      "dateAdded": 1755654037997,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "318",
+      "name": "开发",
+      "url": null,
+      "parentId": "1",
+      "index": 6,
+      "dateAdded": 1702169173374,
+      "dateGroupModified": 1754909788799,
+      "isFolder": true
+    },
+    {
+      "id": "213",
+      "name": "有趣的项目",
+      "url": null,
+      "parentId": "318",
+      "index": 0,
+      "dateAdded": 1691564763090,
+      "dateGroupModified": 1753526864555,
+      "isFolder": true
+    },
+    {
+      "id": "1851",
+      "name": "微信公众号",
+      "url": null,
+      "parentId": "213",
+      "index": 0,
+      "dateAdded": 1753526835059,
+      "dateGroupModified": 1753528325369,
+      "isFolder": true
+    },
+    {
+      "id": "1850",
+      "name": "微信公众号",
+      "url": "https://github.com/wechat-article/wechat-article-exporter",
+      "parentId": "1851",
+      "index": 0,
+      "dateAdded": 1753526770261,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1852",
+      "name": "公众号文章下载",
+      "url": "https://docs.wxdown.online/",
+      "parentId": "1851",
+      "index": 1,
+      "dateAdded": 1753526864555,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "214",
+      "name": "网易云音乐 NodeJS 版 API",
+      "url": "https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi",
+      "parentId": "213",
+      "index": 1,
+      "dateAdded": 1678425034878,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "216",
+      "name": "免费图床 - Telegraph-Image",
+      "url": "https://github.com/cf-pages/Telegraph-Image",
+      "parentId": "213",
+      "index": 2,
+      "dateAdded": 1693463557082,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1272",
+      "name": "moepush",
+      "url": "https://github.com/beilunyang/moepush?tab=readme-ov-file",
+      "parentId": "213",
+      "index": 3,
+      "dateAdded": 1740204808896,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "217",
+      "name": "drawio - 流程图",
+      "url": "https://github.com/jgraph/drawio",
+      "parentId": "213",
+      "index": 4,
+      "dateAdded": 1694316072296,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "219",
+      "name": "Soybean Admin | 一个清新优雅的中后台模版",
+      "url": "https://admin-docs.soybeanjs.cn/",
+      "parentId": "213",
+      "index": 5,
+      "dateAdded": 1694998580006,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "220",
+      "name": "云原生应用市场",
+      "url": "https://hub.grapps.cn/",
+      "parentId": "213",
+      "index": 6,
+      "dateAdded": 1695173919311,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "221",
+      "name": "Home | Immich",
+      "url": "https://immich.app/",
+      "parentId": "213",
+      "index": 7,
+      "dateAdded": 1695174393677,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "224",
+      "name": "Domain Admin — Domain Admin latest 文档",
+      "url": "https://domain-admin.readthedocs.io/zh_CN/latest/index.html",
+      "parentId": "213",
+      "index": 8,
+      "dateAdded": 1696857723371,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "228",
+      "name": "思绪思维导图",
+      "url": "https://wanglin2.github.io/mind-map/#/index",
+      "parentId": "213",
+      "index": 9,
+      "dateAdded": 1705469326518,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "229",
+      "name": "likeadmin快速开发通用管理后台",
+      "url": "https://www.likeadmin.cn/",
+      "parentId": "213",
+      "index": 10,
+      "dateAdded": 1712736827489,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "230",
+      "name": "mTab",
+      "url": "https://www.mtab.cc/",
+      "parentId": "213",
+      "index": 11,
+      "dateAdded": 1721642532949,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "682",
+      "name": "卷王问卷考试系统",
+      "url": "https://surveyking.cn/",
+      "parentId": "213",
+      "index": 12,
+      "dateAdded": 1725454306659,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "724",
+      "name": "证件照",
+      "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos?tab=readme-ov-file#-%E8%BF%90%E8%A1%8C-gradio-demo",
+      "parentId": "213",
+      "index": 13,
+      "dateAdded": 1726558947464,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "702",
+      "name": "微信聊天记录备份",
+      "url": "https://www.cloudbak.org/",
+      "parentId": "213",
+      "index": 14,
+      "dateAdded": 1725866202424,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "738",
+      "name": "LocalSend：向附近设备分享文件",
+      "url": "https://localsend.org/zh-CN",
+      "parentId": "213",
+      "index": 15,
+      "dateAdded": 1727160470160,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "756",
+      "name": "Nexterm",
+      "url": "https://docs.nexterm.dev/",
+      "parentId": "213",
+      "index": 16,
+      "dateAdded": 1728113126980,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "877",
+      "name": "Follow",
+      "url": "https://follow.is/",
+      "parentId": "213",
+      "index": 17,
+      "dateAdded": 1729821727118,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "888",
+      "name": "网络唤醒",
+      "url": "https://github.com/seriousm4x/UpSnap",
+      "parentId": "213",
+      "index": 18,
+      "dateAdded": 1729990114415,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1005",
+      "name": "让PDF看起来像扫描件",
+      "url": "https://github.com/rwv/lookscanned.io",
+      "parentId": "213",
+      "index": 19,
+      "dateAdded": 1734334085033,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1008",
+      "name": "人声分离 - spleeter",
+      "url": "https://spleetergui.com/",
+      "parentId": "213",
+      "index": 20,
+      "dateAdded": 1734595406185,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1019",
+      "name": "DPanel - docker管理面板",
+      "url": "https://github.com/donknap/dpanel?tab=readme-ov-file",
+      "parentId": "213",
+      "index": 21,
+      "dateAdded": 1734784631474,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1022",
+      "name": "Koodo Reader",
+      "url": "https://www.koodoreader.com/zh",
+      "parentId": "213",
+      "index": 22,
+      "dateAdded": 1734917230606,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1025",
+      "name": "海报设计",
+      "url": "https://github.com/LvHuaiSheng/gzm-design",
+      "parentId": "213",
+      "index": 23,
+      "dateAdded": 1735007314450,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1070",
+      "name": "Home | Dozzle",
+      "url": "https://dozzle.dev/",
+      "parentId": "213",
+      "index": 24,
+      "dateAdded": 1736477406473,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1170",
+      "name": "yandong2023/piano-online: 在线模拟钢琴",
+      "url": "https://github.com/yandong2023/piano-online",
+      "parentId": "213",
+      "index": 25,
+      "dateAdded": 1738404095358,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1171",
+      "name": "B站视频同步下载",
+      "url": "https://bili-sync.allwens.work/",
+      "parentId": "213",
+      "index": 26,
+      "dateAdded": 1738404599734,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1174",
+      "name": "bili-sync",
+      "url": null,
+      "parentId": "213",
+      "index": 27,
+      "dateAdded": 1738407040233,
+      "dateGroupModified": 1738507239951,
+      "isFolder": true
+    },
+    {
+      "id": "1173",
+      "name": "docker镜像",
+      "url": "https://hub.docker.com/r/amtoaer/bili-sync-rs/tags",
+      "parentId": "1174",
+      "index": 0,
+      "dateAdded": 1738406996779,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1332",
+      "name": "证件照",
+      "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+      "parentId": "213",
+      "index": 28,
+      "dateAdded": 1741491389443,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1225",
+      "name": "rss羊毛推送到tg",
+      "url": "https://github.com/3377/rss2tg",
+      "parentId": "213",
+      "index": 29,
+      "dateAdded": 1739328539278,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1374",
+      "name": "dockge",
+      "url": "https://github.com/louislam/dockge",
+      "parentId": "213",
+      "index": 30,
+      "dateAdded": 1742352066464,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1379",
+      "name": "instantbox",
+      "url": "https://github.com/instantbox/instantbox",
+      "parentId": "213",
+      "index": 31,
+      "dateAdded": 1742436315963,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1396",
+      "name": "Flist",
+      "url": "https://github.com/jianjianai/FList",
+      "parentId": "213",
+      "index": 32,
+      "dateAdded": 1743058102141,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1407",
+      "name": "ShareX",
+      "url": "https://getsharex.com/",
+      "parentId": "213",
+      "index": 33,
+      "dateAdded": 1743296501181,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1433",
+      "name": "bestK/tv",
+      "url": "https://github.com/bestK/tv",
+      "parentId": "213",
+      "index": 34,
+      "dateAdded": 1744010244075,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1434",
+      "name": "bestZwei/LibreTV: 影视站",
+      "url": "https://github.com/bestZwei/LibreTV?tab=readme-ov-file",
+      "parentId": "213",
+      "index": 35,
+      "dateAdded": 1744010258626,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1437",
+      "name": "FList - 快速开始 | 神奇小破站",
+      "url": "https://jjaw.cn/2024/8/3/flist-fast-start/",
+      "parentId": "213",
+      "index": 36,
+      "dateAdded": 1744166485713,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1461",
+      "name": "sjzar/chatlog: 聊天记录工具，轻松使用自己的聊天数据",
+      "url": "https://github.com/sjzar/chatlog/",
+      "parentId": "213",
+      "index": 37,
+      "dateAdded": 1745390560463,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1468",
+      "name": "punkpeye/awesome-mcp-clients: A collection of MCP clients.",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients/",
+      "parentId": "213",
+      "index": 38,
+      "dateAdded": 1745572257716,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1469",
+      "name": "punkpeye/awesome-mcp-servers: A collection of MCP servers.",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "parentId": "213",
+      "index": 39,
+      "dateAdded": 1745572263852,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "307",
+      "name": "python-office",
+      "url": "https://www.python-office.com/",
+      "parentId": "213",
+      "index": 40,
+      "dateAdded": 1707125134178,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "651",
+      "name": "特殊音频格式转换",
+      "url": "https://git.unlock-music.dev/um/web",
+      "parentId": "213",
+      "index": 41,
+      "dateAdded": 1676625165337,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1597",
+      "name": "hoppscotch",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "parentId": "213",
+      "index": 42,
+      "dateAdded": 1748863284570,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1626",
+      "name": "chaitin/PandaWiki: PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。",
+      "url": "https://github.com/chaitin/PandaWiki",
+      "parentId": "213",
+      "index": 43,
+      "dateAdded": 1749116422149,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1662",
+      "name": "pairdrop - 局域网文件传输",
+      "url": "https://github.com/schlagmichdoch/PairDrop",
+      "parentId": "213",
+      "index": 44,
+      "dateAdded": 1750314563245,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1807",
+      "name": "图床",
+      "url": "https://github.com/MarSeventh/CloudFlare-ImgBed",
+      "parentId": "213",
+      "index": 45,
+      "dateAdded": 1752750016850,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1837",
+      "name": "监控海鲜市场",
+      "url": "https://github.com/dingyufei615/ai-goofish-monitor",
+      "parentId": "213",
+      "index": 46,
+      "dateAdded": 1753316368303,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1854",
+      "name": "短链",
+      "url": null,
+      "parentId": "213",
+      "index": 47,
+      "dateAdded": 1753528339601,
+      "dateGroupModified": 1753528339601,
+      "isFolder": true
+    },
+    {
+      "id": "1853",
+      "name": "Ai-Yolo/CloudflareWorker-KV-UrlShort: 使用Cloudflare Worker创建的URL缩短器",
+      "url": "https://github.com/Ai-Yolo/CloudflareWorker-KV-UrlShort",
+      "parentId": "1854",
+      "index": 0,
+      "dateAdded": 1753528325369,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1616",
+      "name": "前端",
+      "url": null,
+      "parentId": "318",
+      "index": 1,
+      "dateAdded": 1749081697676,
+      "dateGroupModified": 1749081778386,
+      "isFolder": true
+    },
+    {
+      "id": "327",
+      "name": "CSS",
+      "url": null,
+      "parentId": "1616",
+      "index": 0,
+      "dateAdded": 1699022106533,
+      "dateGroupModified": 1719664547465,
+      "isFolder": true
+    },
+    {
+      "id": "328",
+      "name": "Tailwind CSS",
+      "url": "https://www.tailwindcss.cn/",
+      "parentId": "327",
+      "index": 0,
+      "dateAdded": 1699022074843,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "329",
+      "name": "毛玻璃代码生成",
+      "url": "https://hype4.academy/tools/glassmorphism-generator",
+      "parentId": "327",
+      "index": 1,
+      "dateAdded": 1676595807668,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "330",
+      "name": "中文文档 - Tailwind CSS 中文文档",
+      "url": "https://www.tailwindcss.cn/docs",
+      "parentId": "327",
+      "index": 2,
+      "dateAdded": 1674519310205,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "331",
+      "name": "AI Color",
+      "url": "https://aicolors.co/",
+      "parentId": "327",
+      "index": 3,
+      "dateAdded": 1702535791415,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "332",
+      "name": "css生成器",
+      "url": "https://bennettfeely.com/clippy/",
+      "parentId": "327",
+      "index": 4,
+      "dateAdded": 1719664527286,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "333",
+      "name": "CSS生成器",
+      "url": "https://css-generators.com/",
+      "parentId": "327",
+      "index": 5,
+      "dateAdded": 1719664547465,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "730",
+      "name": "前端框架",
+      "url": null,
+      "parentId": "1616",
+      "index": 1,
+      "dateAdded": 1726748391158,
+      "dateGroupModified": 1726789908094,
+      "isFolder": true
+    },
+    {
+      "id": "729",
+      "name": "Home | Vben Admin",
+      "url": "https://doc.vvbin.cn/",
+      "parentId": "730",
+      "index": 0,
+      "dateAdded": 1726748375874,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "728",
+      "name": "UI组件库",
+      "url": null,
+      "parentId": "1616",
+      "index": 2,
+      "dateAdded": 1726748245623,
+      "dateGroupModified": 1753316368303,
+      "isFolder": true
+    },
+    {
+      "id": "741",
+      "name": "ZUI 3 | ZUI 3",
+      "url": "https://openzui.com/",
+      "parentId": "728",
+      "index": 0,
+      "dateAdded": 1727166859555,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "752",
+      "name": "Fighting Design | Fighting Design",
+      "url": "https://fighting.tianyuhao.cn/",
+      "parentId": "728",
+      "index": 1,
+      "dateAdded": 1727920175841,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "762",
+      "name": "Vue Amazing UI | Amazing UI Components Library",
+      "url": "https://themusecatcher.github.io/vue-amazing-ui/",
+      "parentId": "728",
+      "index": 2,
+      "dateAdded": 1728126631330,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "789",
+      "name": "Vuetify —— 一个 Vue 的组件框架",
+      "url": "https://vuetifyjs.com/zh-Hans/",
+      "parentId": "728",
+      "index": 3,
+      "dateAdded": 1728702137574,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "790",
+      "name": "Quasar Framework 中文网",
+      "url": "http://www.quasarchs.com/",
+      "parentId": "728",
+      "index": 4,
+      "dateAdded": 1728702160308,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "792",
+      "name": "Element Plus",
+      "url": "https://element-plus.org/zh-CN/",
+      "parentId": "728",
+      "index": 5,
+      "dateAdded": 1728702196569,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "793",
+      "name": "组件总览 - Ant Design Vue",
+      "url": "https://antdv.com/components/overview-cn",
+      "parentId": "728",
+      "index": 6,
+      "dateAdded": 1728702220562,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "794",
+      "name": "Naive UI: 一个 Vue 3 组件库",
+      "url": "https://www.naiveui.com/zh-CN/os-theme",
+      "parentId": "728",
+      "index": 7,
+      "dateAdded": 1728702234609,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "795",
+      "name": "BootstrapVue",
+      "url": "https://bootstrap-vue.org/",
+      "parentId": "728",
+      "index": 8,
+      "dateAdded": 1728702254109,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1833",
+      "name": "Vant 4 - 轻量、可定制的移动端组件库",
+      "url": "https://vant.pro/vant/#/zh-CN",
+      "parentId": "728",
+      "index": 9,
+      "dateAdded": 1753263411324,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1834",
+      "name": "cube-ui",
+      "url": "https://v3-cube-ui.pages.dev/#/zh-CN",
+      "parentId": "728",
+      "index": 10,
+      "dateAdded": 1753264638836,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "343",
+      "name": "建站",
+      "url": null,
+      "parentId": "1616",
+      "index": 3,
+      "dateAdded": 1670405215175,
+      "dateGroupModified": 1732245869907,
+      "isFolder": true
+    },
+    {
+      "id": "344",
+      "name": "静态网站构建工具",
+      "url": null,
+      "parentId": "343",
+      "index": 0,
+      "dateAdded": 1714052291659,
+      "dateGroupModified": 1714052348042,
+      "isFolder": true
+    },
+    {
+      "id": "345",
+      "name": "Astro",
+      "url": "https://astro.build/",
+      "parentId": "344",
+      "index": 0,
+      "dateAdded": 1714052348042,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "346",
+      "name": "文档站点生成器-docsify",
+      "url": "https://docsify.js.org/#/",
+      "parentId": "344",
+      "index": 1,
+      "dateAdded": 1682777217878,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "347",
+      "name": "Hexo",
+      "url": null,
+      "parentId": "344",
+      "index": 2,
+      "dateAdded": 1674901281824,
+      "dateGroupModified": 1676343512400,
+      "isFolder": true
+    },
+    {
+      "id": "348",
+      "name": "hexo-tag-mmedia",
+      "url": "https://www.u2sb.com/OpenSw/hexo-tag-mmedia/install.html",
+      "parentId": "347",
+      "index": 0,
+      "dateAdded": 1674289012553,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "349",
+      "name": "hexo-theme-shoka",
+      "url": "https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/special/",
+      "parentId": "347",
+      "index": 1,
+      "dateAdded": 1670407706391,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "350",
+      "name": "(6条消息) 将Hexo搭建到自己的服务器上_星极耀世的博客-CSDN博客_服务器搭建hexo",
+      "url": "https://blog.csdn.net/qq_38679881/article/details/122730065",
+      "parentId": "347",
+      "index": 2,
+      "dateAdded": 1671802211730,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "351",
+      "name": "Butterfly 安裝文檔(四) 主題配置-2 | Butterfly",
+      "url": "https://butterfly.js.org/posts/ceeb73f/",
+      "parentId": "347",
+      "index": 3,
+      "dateAdded": 1676343512400,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "352",
+      "name": "低代码开发",
+      "url": null,
+      "parentId": "343",
+      "index": 1,
+      "dateAdded": 1691564516970,
+      "dateGroupModified": 1691564516970,
+      "isFolder": true
+    },
+    {
+      "id": "353",
+      "name": "用友开发者中心_YonBuilder_低代码开发-快速构建企业级应用",
+      "url": "https://developer.yonyou.com/home",
+      "parentId": "352",
+      "index": 0,
+      "dateAdded": 1691564495709,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "354",
+      "name": "Dooring可视化系列",
+      "url": "http://h5.dooring.cn/docz",
+      "parentId": "352",
+      "index": 1,
+      "dateAdded": 1679726120090,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "355",
+      "name": "素材",
+      "url": null,
+      "parentId": "343",
+      "index": 2,
+      "dateAdded": 1691564308584,
+      "dateGroupModified": 1717994656121,
+      "isFolder": true
+    },
+    {
+      "id": "356",
+      "name": "iconfont-阿里巴巴矢量图标库",
+      "url": "https://www.iconfont.cn/?spm=a313x.7781069.1998910419.d4d0a486a",
+      "parentId": "355",
+      "index": 0,
+      "dateAdded": 1647657373601,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "357",
+      "name": "Find the Perfect Icon for Your Project | Font Awesome",
+      "url": "https://fontawesome.com/",
+      "parentId": "355",
+      "index": 1,
+      "dateAdded": 1676351867782,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "358",
+      "name": "分类:🐵动物和自然相关的Emoji大全 | EmojiAll",
+      "url": "https://www.emojiall.com/zh-hans/categories/D",
+      "parentId": "355",
+      "index": 2,
+      "dateAdded": 1710828270048,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "359",
+      "name": "创建自己的字体",
+      "url": "https://www.calligraphr.com/en/webapp/app_home/?/",
+      "parentId": "355",
+      "index": 3,
+      "dateAdded": 1713613944563,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "360",
+      "name": "【2024】推荐 64 个优秀 WordPress 免费主题",
+      "url": "https://mp.weixin.qq.com/s/zy_u_BAaBbnXJpyKm86hrg",
+      "parentId": "355",
+      "index": 4,
+      "dateAdded": 1713617630796,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "361",
+      "name": "图片素材",
+      "url": "https://pixabay.com/zh/",
+      "parentId": "355",
+      "index": 5,
+      "dateAdded": 1717994656121,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "362",
+      "name": "统计",
+      "url": null,
+      "parentId": "343",
+      "index": 3,
+      "dateAdded": 1687224914375,
+      "dateGroupModified": 1705716765065,
+      "isFolder": true
+    },
+    {
+      "id": "363",
+      "name": "51.LA网站统计",
+      "url": "https://v6.51.la/",
+      "parentId": "362",
+      "index": 0,
+      "dateAdded": 1688465611243,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "364",
+      "name": "百度统计",
+      "url": "https://tongji.baidu.com/web5/welcome/login",
+      "parentId": "362",
+      "index": 1,
+      "dateAdded": 1688465658745,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "365",
+      "name": "Plausible",
+      "url": "https://plausible.io/",
+      "parentId": "362",
+      "index": 2,
+      "dateAdded": 1696920048010,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "366",
+      "name": " Clarity",
+      "url": "https://clarity.microsoft.com/",
+      "parentId": "362",
+      "index": 3,
+      "dateAdded": 1705716765065,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "367",
+      "name": "图床",
+      "url": null,
+      "parentId": "343",
+      "index": 4,
+      "dateAdded": 1664249111248,
+      "dateGroupModified": 1691978591179,
+      "isFolder": true
+    },
+    {
+      "id": "368",
+      "name": "随机图片",
+      "url": "https://api.imlazy.ink/",
+      "parentId": "367",
+      "index": 0,
+      "dateAdded": 1664244658565,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "369",
+      "name": "Nixingshiguang (nixingshiguang) - Z4A图床-做国内最良心的免费图床",
+      "url": "https://www.z4a.net/nixingshiguang",
+      "parentId": "367",
+      "index": 1,
+      "dateAdded": 1670212999847,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "370",
+      "name": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
+      "url": "https://imgse.com/",
+      "parentId": "367",
+      "index": 2,
+      "dateAdded": 1671860386729,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "371",
+      "name": "简介 · 简单图床-EasyImage2.0 使用手册 · 看云",
+      "url": "https://www.kancloud.cn/easyimage/easyimage/2625222",
+      "parentId": "367",
+      "index": 3,
+      "dateAdded": 1674286428292,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "372",
+      "name": "23个二次元、三次元随机图API接口分享及预览 - 赵苦瓜のBlog",
+      "url": "https://blog.jixiaob.cn/?post=93",
+      "parentId": "367",
+      "index": 4,
+      "dateAdded": 1677908509241,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "373",
+      "name": "自建图床",
+      "url": "https://github.com/nixingshiguang/Telegraph-Image",
+      "parentId": "367",
+      "index": 5,
+      "dateAdded": 1691978591179,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "374",
+      "name": "CDN",
+      "url": null,
+      "parentId": "343",
+      "index": 5,
+      "dateAdded": 1688465555023,
+      "dateGroupModified": 1700644641994,
+      "isFolder": true
+    },
+    {
+      "id": "375",
+      "name": "jsDelivr",
+      "url": "https://www.jsdelivr.com/",
+      "parentId": "374",
+      "index": 0,
+      "dateAdded": 1673068281132,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "376",
+      "name": "Staticfile CDN",
+      "url": "https://staticfile.org/",
+      "parentId": "374",
+      "index": 1,
+      "dateAdded": 1694996564612,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "377",
+      "name": "CacheFly",
+      "url": "https://portal.cachefly.com/signin",
+      "parentId": "374",
+      "index": 2,
+      "dateAdded": 1700644641994,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "378",
+      "name": "API",
+      "url": null,
+      "parentId": "343",
+      "index": 6,
+      "dateAdded": 1694696568043,
+      "dateGroupModified": 1722069513001,
+      "isFolder": true
+    },
+    {
+      "id": "379",
+      "name": "IP地址API接口 - useragent info",
+      "url": "https://ip.useragentinfo.com/api",
+      "parentId": "378",
+      "index": 0,
+      "dateAdded": 1681737855147,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "380",
+      "name": "随机图片生成网站",
+      "url": "https://picsum.photos/",
+      "parentId": "378",
+      "index": 1,
+      "dateAdded": 1695448180932,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "381",
+      "name": "「聚合数据」-API-API数据接口服务专家",
+      "url": "https://www.juhe.cn/",
+      "parentId": "378",
+      "index": 2,
+      "dateAdded": 1677632527142,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "382",
+      "name": "iP查询 - iP138查询网",
+      "url": "https://user.ip138.com/productorder/?pid=1",
+      "parentId": "378",
+      "index": 3,
+      "dateAdded": 1676697663027,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "383",
+      "name": "天行数据TianAPI - 开发者API数据平台",
+      "url": "https://www.tianapi.com/",
+      "parentId": "378",
+      "index": 4,
+      "dateAdded": 1694696553102,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "384",
+      "name": "心知天气",
+      "url": "https://www.seniverse.com/",
+      "parentId": "378",
+      "index": 5,
+      "dateAdded": 1687935124179,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "385",
+      "name": "教书先生API - 提供免费接口调用平台",
+      "url": "https://api.oioweb.cn/",
+      "parentId": "378",
+      "index": 6,
+      "dateAdded": 1696383972317,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "386",
+      "name": "UomgAPI - 优启梦免费API数据接口调用服务平台",
+      "url": "http://api.uomg.com/",
+      "parentId": "378",
+      "index": 7,
+      "dateAdded": 1696384712662,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "387",
+      "name": "免费API - 提供免费接口调用平台",
+      "url": "https://api.aa1.cn/",
+      "parentId": "378",
+      "index": 8,
+      "dateAdded": 1696384898125,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "388",
+      "name": "大米API - 免费API数据接口调用服务平台",
+      "url": "https://api.qqsuu.cn/",
+      "parentId": "378",
+      "index": 9,
+      "dateAdded": 1696384924981,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "389",
+      "name": "高德开放平台 | 高德地图API",
+      "url": "https://lbs.amap.com/",
+      "parentId": "378",
+      "index": 10,
+      "dateAdded": 1696405913305,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "390",
+      "name": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis#weather",
+      "parentId": "378",
+      "index": 11,
+      "dateAdded": 1697435536198,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "391",
+      "name": "ipapi - IP Address Lookup and Geolocation API | No SignUp",
+      "url": "https://ipapi.co/",
+      "parentId": "378",
+      "index": 12,
+      "dateAdded": 1699277024463,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "392",
+      "name": "一为favicon",
+      "url": "https://api.iowen.cn/doc/favicon.html",
+      "parentId": "378",
+      "index": 13,
+      "dateAdded": 1699354778077,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "393",
+      "name": "VORE-API - 提供免费接口服务",
+      "url": "https://api.vore.top/",
+      "parentId": "378",
+      "index": 14,
+      "dateAdded": 1705894558040,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "394",
+      "name": "public-apis/public-apis: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "parentId": "378",
+      "index": 15,
+      "dateAdded": 1707957625578,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "395",
+      "name": "接口大全-免费API,收集所有免费的API",
+      "url": "https://www.free-api.com/",
+      "parentId": "378",
+      "index": 16,
+      "dateAdded": 1710828222936,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "396",
+      "name": "FastAPI - 构建API的web框架",
+      "url": "https://fastapi.tiangolo.com/zh/",
+      "parentId": "378",
+      "index": 17,
+      "dateAdded": 1714108918842,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "397",
+      "name": "IPdeny IP 国家/地区块",
+      "url": "https://www.ipdeny.com/",
+      "parentId": "378",
+      "index": 18,
+      "dateAdded": 1722069513001,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "398",
+      "name": "无后端评论系统",
+      "url": "https://valine.js.org/",
+      "parentId": "343",
+      "index": 7,
+      "dateAdded": 1670396785212,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "399",
+      "name": "亚数信息-SSL/TLS安全评估报告",
+      "url": "https://myssl.com/",
+      "parentId": "343",
+      "index": 8,
+      "dateAdded": 1668841182501,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "400",
+      "name": "algolia 搜索",
+      "url": "https://www.algolia.com/",
+      "parentId": "343",
+      "index": 9,
+      "dateAdded": 1670405149993,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "401",
+      "name": "All | NavNav+",
+      "url": "https://navnav.co/",
+      "parentId": "343",
+      "index": 10,
+      "dateAdded": 1671030169944,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "402",
+      "name": "数据库: MongoDB Cloud",
+      "url": "https://cloud.mongodb.com/v2#/org/642a248d9aff5656dd3e026e/projects",
+      "parentId": "343",
+      "index": 11,
+      "dateAdded": 1680483801573,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "403",
+      "name": "GitGuardian",
+      "url": "https://dashboard.gitguardian.com/workspace/332471/incidents/5274594/?occurrence=76851091&sort_date=true",
+      "parentId": "343",
+      "index": 12,
+      "dateAdded": 1671258611444,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "404",
+      "name": "GTmetrix-网站测试",
+      "url": "https://gtmetrix.com/",
+      "parentId": "343",
+      "index": 13,
+      "dateAdded": 1671246076271,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "405",
+      "name": "拨测-免费的域名检测工具网",
+      "url": "https://www.boce.com/",
+      "parentId": "343",
+      "index": 14,
+      "dateAdded": 1705907757934,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "858",
+      "name": "Easy File Uploading With JavaScript | FilePond",
+      "url": "https://pqina.nl/filepond/",
+      "parentId": "343",
+      "index": 15,
+      "dateAdded": 1729601328216,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "967",
+      "name": "cool-team-official/cool-admin-vue: 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建",
+      "url": "https://github.com/cool-team-official/cool-admin-vue",
+      "parentId": "343",
+      "index": 16,
+      "dateAdded": 1732245748048,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1802",
+      "name": "wordpress",
+      "url": null,
+      "parentId": "343",
+      "index": 17,
+      "dateAdded": 1752710775661,
+      "dateGroupModified": 1752711460288,
+      "isFolder": true
+    },
+    {
+      "id": "1801",
+      "name": "短信验证码插件",
+      "url": "https://github.com/DevHjz/WP-Comment-Phone-Verify",
+      "parentId": "1802",
+      "index": 0,
+      "dateAdded": 1752710740625,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "334",
+      "name": "各种库",
+      "url": null,
+      "parentId": "1616",
+      "index": 4,
+      "dateAdded": 1721267630406,
+      "dateGroupModified": 1754401260849,
+      "isFolder": true
+    },
+    {
+      "id": "335",
+      "name": "Apache ECharts",
+      "url": "https://echarts.apache.org/zh/index.html",
+      "parentId": "334",
+      "index": 0,
+      "dateAdded": 1721267565501,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "336",
+      "name": "拼音转换",
+      "url": "https://pinyin-pro.cn/",
+      "parentId": "334",
+      "index": 1,
+      "dateAdded": 1696302457783,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "337",
+      "name": "SuperTokens 身份验证",
+      "url": "https://supertokens.com/",
+      "parentId": "334",
+      "index": 2,
+      "dateAdded": 1716336168184,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "338",
+      "name": "Kuma UI",
+      "url": "https://www.kuma-ui.com/",
+      "parentId": "334",
+      "index": 3,
+      "dateAdded": 1714109561025,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "339",
+      "name": "Ant Design - 一套企业级 UI 设计语言和 React 组件库",
+      "url": "https://ant-design.antgroup.com/index-cn",
+      "parentId": "334",
+      "index": 4,
+      "dateAdded": 1721267940301,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "340",
+      "name": "pushoo.js",
+      "url": "https://pushoo.js.org/",
+      "parentId": "334",
+      "index": 5,
+      "dateAdded": 1708347713665,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "341",
+      "name": "西瓜播放器",
+      "url": "https://h5player.bytedance.com/",
+      "parentId": "334",
+      "index": 6,
+      "dateAdded": 1711625689103,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "342",
+      "name": "sampotts/plyr: A simple HTML5, YouTube and Vimeo player",
+      "url": "https://github.com/sampotts/plyr",
+      "parentId": "334",
+      "index": 7,
+      "dateAdded": 1719123706214,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1759",
+      "name": "Art Design Pro",
+      "url": "https://www.lingchen.kim/art-design-pro/docs/zh/",
+      "parentId": "334",
+      "index": 8,
+      "dateAdded": 1751534867958,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1766",
+      "name": "网页截图",
+      "url": "https://github.com/zumerlab/snapdom?tab=readme-ov-file",
+      "parentId": "334",
+      "index": 9,
+      "dateAdded": 1751687267250,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1769",
+      "name": "H3 - http服务器",
+      "url": "https://h3.zhcndoc.com/",
+      "parentId": "334",
+      "index": 10,
+      "dateAdded": 1751716909183,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1770",
+      "name": "h3js/h3: ⚡️ Minimal H(TTP) framework built for high performance and portability",
+      "url": "https://github.com/h3js/h3",
+      "parentId": "334",
+      "index": 11,
+      "dateAdded": 1751716944976,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1886",
+      "name": "WebTracing | 埋点",
+      "url": "https://m-cheng-web.github.io/web-tracing/",
+      "parentId": "334",
+      "index": 12,
+      "dateAdded": 1754396898429,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "412",
+      "name": "后台管理系统",
+      "url": null,
+      "parentId": "1616",
+      "index": 5,
+      "dateAdded": 1722729999802,
+      "dateGroupModified": 1754472764878,
+      "isFolder": true
+    },
+    {
+      "id": "413",
+      "name": "基于最新前端技术栈，10 个高颜值的中后台模板（附源码）",
+      "url": "https://mp.weixin.qq.com/s/g48ZqezL8cyXqOOsyAdrEg",
+      "parentId": "412",
+      "index": 0,
+      "dateAdded": 1722729974131,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "968",
+      "name": "zclzone/vue-naive-admin: ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。",
+      "url": "https://github.com/zclzone/vue-naive-admin",
+      "parentId": "412",
+      "index": 1,
+      "dateAdded": 1732245869907,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1867",
+      "name": "mengxianghan/xy-admin",
+      "url": "https://github.com/mengxianghan/xy-admin",
+      "parentId": "412",
+      "index": 2,
+      "dateAdded": 1753844749128,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1892",
+      "name": "art-design-pro/README.zh-CN.md at main · Daymychen/art-design-pro",
+      "url": "https://github.com/Daymychen/art-design-pro/blob/main/README.zh-CN.md",
+      "parentId": "412",
+      "index": 3,
+      "dateAdded": 1754472753120,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "982",
+      "name": "大冤种",
+      "url": null,
+      "parentId": "318",
+      "index": 2,
+      "dateAdded": 1733190465819,
+      "dateGroupModified": 1745492256368,
+      "isFolder": true
+    },
+    {
+      "id": "988",
+      "name": "Google",
+      "url": null,
+      "parentId": "982",
+      "index": 0,
+      "dateAdded": 1733191002858,
+      "dateGroupModified": 1745022277608,
+      "isFolder": true
+    },
+    {
+      "id": "427",
+      "name": "SerpApi: Google Search API",
+      "url": "https://serpapi.com/",
+      "parentId": "988",
+      "index": 0,
+      "dateAdded": 1703822673639,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "431",
+      "name": "Chrome DevTools  |  Chrome for Developers",
+      "url": "https://developer.chrome.com/docs/devtools?hl=zh-cn",
+      "parentId": "988",
+      "index": 1,
+      "dateAdded": 1720512899608,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "424",
+      "name": "Android 开发者",
+      "url": "https://developer.android.google.cn/",
+      "parentId": "988",
+      "index": 2,
+      "dateAdded": 1665381819058,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1038",
+      "name": "谷歌云",
+      "url": "https://console.cloud.google.com/",
+      "parentId": "988",
+      "index": 3,
+      "dateAdded": 1735777541205,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1455",
+      "name": "Firebase Studio",
+      "url": "https://idx.google.com/",
+      "parentId": "988",
+      "index": 4,
+      "dateAdded": 1744943808394,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "983",
+      "name": "百度",
+      "url": null,
+      "parentId": "982",
+      "index": 1,
+      "dateAdded": 1733190482661,
+      "dateGroupModified": 1733190499761,
+      "isFolder": true
+    },
+    {
+      "id": "418",
+      "name": "百度智能云-登录",
+      "url": "https://login.bce.baidu.com/?account=&redirect=http%3A%2F%2Fconsole.bce.baidu.com%2Fai%2F%3F_%3D1702029732519#/ai/intelligentwriting/overview/index",
+      "parentId": "983",
+      "index": 0,
+      "dateAdded": 1703166007805,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "417",
+      "name": "文心大模型",
+      "url": "https://wenxin.baidu.com/user/platoDetail",
+      "parentId": "983",
+      "index": 1,
+      "dateAdded": 1702169462045,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "416",
+      "name": "百度翻译开放平台",
+      "url": "https://api.fanyi.baidu.com/",
+      "parentId": "983",
+      "index": 2,
+      "dateAdded": 1702169155319,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "984",
+      "name": "腾讯",
+      "url": null,
+      "parentId": "982",
+      "index": 2,
+      "dateAdded": 1733190618197,
+      "dateGroupModified": 1742257312019,
+      "isFolder": true
+    },
+    {
+      "id": "696",
+      "name": "腾讯工蜂",
+      "url": "https://git.code.tencent.com/",
+      "parentId": "984",
+      "index": 0,
+      "dateAdded": 1725629557943,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "429",
+      "name": "微信客服",
+      "url": "https://work.weixin.qq.com/kf/frame#/start",
+      "parentId": "984",
+      "index": 1,
+      "dateAdded": 1716430494001,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "430",
+      "name": "QQ 开放平台",
+      "url": "https://q.qq.com/#/app/bot",
+      "parentId": "984",
+      "index": 2,
+      "dateAdded": 1720324567139,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "426",
+      "name": "企业微信开发者中心",
+      "url": "https://developer.work.weixin.qq.com/",
+      "parentId": "984",
+      "index": 3,
+      "dateAdded": 1714366328870,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "421",
+      "name": "测试公众号申请",
+      "url": "https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login",
+      "parentId": "984",
+      "index": 4,
+      "dateAdded": 1704943991834,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "420",
+      "name": "QQ 开放平台",
+      "url": "https://q.qq.com/#/",
+      "parentId": "984",
+      "index": 5,
+      "dateAdded": 1703166052252,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "419",
+      "name": "腾讯轻联",
+      "url": "https://ipaas.cloud.tencent.com/login",
+      "parentId": "984",
+      "index": 6,
+      "dateAdded": 1703166034246,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1120",
+      "name": "腾讯云",
+      "url": "https://cloud.tencent.com/",
+      "parentId": "984",
+      "index": 7,
+      "dateAdded": 1737532070364,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1121",
+      "name": "Cloud Studio",
+      "url": "https://ide.cloud.tencent.com/dashboard/recommend-apps",
+      "parentId": "984",
+      "index": 8,
+      "dateAdded": 1737547214552,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1204",
+      "name": "微信开放平台",
+      "url": "https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN&token=4efb933de8f509eae83d7bbfaeb079e0a1618e6c",
+      "parentId": "984",
+      "index": 9,
+      "dateAdded": 1738990138322,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1368",
+      "name": "CNB - Cloud Native Build",
+      "url": "https://cnb.cool/",
+      "parentId": "984",
+      "index": 10,
+      "dateAdded": 1742257300535,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "985",
+      "name": "阿里",
+      "url": null,
+      "parentId": "982",
+      "index": 3,
+      "dateAdded": 1733190728634,
+      "dateGroupModified": 1733190737119,
+      "isFolder": true
+    },
+    {
+      "id": "423",
+      "name": "钉钉开发者后台",
+      "url": "https://open-dev.dingtalk.com/#/",
+      "parentId": "985",
+      "index": 0,
+      "dateAdded": 1705480359947,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "986",
+      "name": "华为",
+      "url": null,
+      "parentId": "982",
+      "index": 4,
+      "dateAdded": 1733190760128,
+      "dateGroupModified": 1733194549381,
+      "isFolder": true
+    },
+    {
+      "id": "971",
+      "name": "华为云开发者官网_华为云",
+      "url": "https://developer.huaweicloud.com/",
+      "parentId": "986",
+      "index": 0,
+      "dateAdded": 1732711222225,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "972",
+      "name": "共建智能世界云底座-华为云",
+      "url": "https://www.huaweicloud.com/",
+      "parentId": "986",
+      "index": 1,
+      "dateAdded": 1732711242700,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "979",
+      "name": "开发者空间-华为云",
+      "url": "https://developer.huaweicloud.com/space/home",
+      "parentId": "986",
+      "index": 2,
+      "dateAdded": 1733137471116,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "991",
+      "name": "华为云开发者学堂",
+      "url": "https://edu.huaweicloud.com/",
+      "parentId": "986",
+      "index": 3,
+      "dateAdded": 1733194541286,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "987",
+      "name": "Github",
+      "url": null,
+      "parentId": "982",
+      "index": 5,
+      "dateAdded": 1733190965491,
+      "dateGroupModified": 1733191240934,
+      "isFolder": true
+    },
+    {
+      "id": "911",
+      "name": "GitHub Docs",
+      "url": "https://docs.github.com/zh",
+      "parentId": "987",
+      "index": 0,
+      "dateAdded": 1731284586094,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "422",
+      "name": "GitHub Marketplace",
+      "url": "https://github.com/marketplace",
+      "parentId": "987",
+      "index": 1,
+      "dateAdded": 1704952000896,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "319",
+      "name": "容器",
+      "url": null,
+      "parentId": "318",
+      "index": 3,
+      "dateAdded": 1699318406238,
+      "dateGroupModified": 1726558947464,
+      "isFolder": true
+    },
+    {
+      "id": "320",
+      "name": "Docker",
+      "url": null,
+      "parentId": "319",
+      "index": 0,
+      "dateAdded": 1700709420730,
+      "dateGroupModified": 1753526770261,
+      "isFolder": true
+    },
+    {
+      "id": "321",
+      "name": "Docker Hub",
+      "url": "https://hub.docker.com/",
+      "parentId": "320",
+      "index": 0,
+      "dateAdded": 1664959049025,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "322",
+      "name": "Docker Docs",
+      "url": "https://docs.docker.com/",
+      "parentId": "320",
+      "index": 1,
+      "dateAdded": 1699321083865,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "323",
+      "name": "Docker — 从入门到实践 | Docker 从入门到实践",
+      "url": "https://vuepress.mirror.docker-practice.com/",
+      "parentId": "320",
+      "index": 2,
+      "dateAdded": 1699321059641,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "324",
+      "name": "docker中文社区",
+      "url": "https://www.docker.org.cn/",
+      "parentId": "320",
+      "index": 3,
+      "dateAdded": 1699318386544,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1849",
+      "name": "KSpeeder | Docker镜像加速专家",
+      "url": "https://kspeeder.istoreos.com/",
+      "parentId": "320",
+      "index": 4,
+      "dateAdded": 1753512504734,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "325",
+      "name": "Podman",
+      "url": null,
+      "parentId": "319",
+      "index": 1,
+      "dateAdded": 1700542666905,
+      "dateGroupModified": 1700542666905,
+      "isFolder": true
+    },
+    {
+      "id": "326",
+      "name": "Podman",
+      "url": "https://podman.io/",
+      "parentId": "325",
+      "index": 0,
+      "dateAdded": 1700542646572,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "406",
+      "name": "软件",
+      "url": null,
+      "parentId": "318",
+      "index": 4,
+      "dateAdded": 1722225584155,
+      "dateGroupModified": 1752560549881,
+      "isFolder": true
+    },
+    {
+      "id": "425",
+      "name": "FittenTech",
+      "url": "https://fittentech.com/#home",
+      "parentId": "406",
+      "index": 0,
+      "dateAdded": 1714197366257,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "407",
+      "name": "Responsively App",
+      "url": "https://responsively.app/",
+      "parentId": "406",
+      "index": 1,
+      "dateAdded": 1696861848224,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "408",
+      "name": "命令行 - x-cmd",
+      "url": "https://cn.x-cmd.com/",
+      "parentId": "406",
+      "index": 2,
+      "dateAdded": 1711672383177,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "409",
+      "name": "nodejs-version-manager",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "parentId": "406",
+      "index": 3,
+      "dateAdded": 1722405789892,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "410",
+      "name": "数据库管理 - Navicat",
+      "url": "https://navicat.com.cn/download/navicat-premium-lite",
+      "parentId": "406",
+      "index": 4,
+      "dateAdded": 1722558850068,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "411",
+      "name": "API - Insomnia",
+      "url": "https://insomnia.rest/download",
+      "parentId": "406",
+      "index": 5,
+      "dateAdded": 1722748619218,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "694",
+      "name": "UGit - 让每个人都可以轻松使用Git",
+      "url": "https://ugit.qq.com/zh/index.html",
+      "parentId": "406",
+      "index": 6,
+      "dateAdded": 1725627861479,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "695",
+      "name": "ugit说明书",
+      "url": "https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz",
+      "parentId": "406",
+      "index": 7,
+      "dateAdded": 1725628195299,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "710",
+      "name": "IShell",
+      "url": "https://ishell.cc/price",
+      "parentId": "406",
+      "index": 8,
+      "dateAdded": 1726037010174,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "770",
+      "name": "换源脚本",
+      "url": "https://github.com/RubyMetric/chsrc",
+      "parentId": "406",
+      "index": 9,
+      "dateAdded": 1728379265619,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1790",
+      "name": "IDE",
+      "url": null,
+      "parentId": "406",
+      "index": 10,
+      "dateAdded": 1752323401303,
+      "dateGroupModified": 1753511335890,
+      "isFolder": true
+    },
+    {
+      "id": "1789",
+      "name": "Trae - AI 原生 IDE",
+      "url": "https://www.trae.cn/",
+      "parentId": "1790",
+      "index": 0,
+      "dateAdded": 1752323388735,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1803",
+      "name": "亚马逊 - Kiro",
+      "url": "https://kiro.dev/downloads/",
+      "parentId": "1790",
+      "index": 1,
+      "dateAdded": 1752711460288,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1844",
+      "name": "CodeBuddy IDE",
+      "url": "https://www.codebuddy.ai/",
+      "parentId": "1790",
+      "index": 2,
+      "dateAdded": 1753419027501,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1794",
+      "name": "JetBrains 许可证生成器 - 免费许可证激活",
+      "url": "https://jetbrains.ankio.net/license",
+      "parentId": "406",
+      "index": 11,
+      "dateAdded": 1752383024031,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1030",
+      "name": "低代码",
+      "url": null,
+      "parentId": "318",
+      "index": 5,
+      "dateAdded": 1735526076976,
+      "dateGroupModified": 1735604294037,
+      "isFolder": true
+    },
+    {
+      "id": "1029",
+      "name": "低代码引擎 | LowCodeEngine",
+      "url": "https://lowcode-engine.cn/index",
+      "parentId": "1030",
+      "index": 0,
+      "dateAdded": 1735526063201,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1617",
+      "name": "Linux",
+      "url": null,
+      "parentId": "318",
+      "index": 6,
+      "dateAdded": 1749081846793,
+      "dateGroupModified": 1749082607408,
+      "isFolder": true
+    },
+    {
+      "id": "1517",
+      "name": "更新源",
+      "url": null,
+      "parentId": "1617",
+      "index": 0,
+      "dateAdded": 1747197101475,
+      "dateGroupModified": 1747970152576,
+      "isFolder": true
+    },
+    {
+      "id": "659",
+      "name": "TUNA清华源",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/",
+      "parentId": "1517",
+      "index": 0,
+      "dateAdded": 1682815942741,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "660",
+      "name": "USTC中科大源",
+      "url": "https://mirrors.ustc.edu.cn/",
+      "parentId": "1517",
+      "index": 1,
+      "dateAdded": 1682860423127,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "433",
+      "name": "Linux换源工具",
+      "url": "https://linuxmirrors.cn/",
+      "parentId": "1517",
+      "index": 2,
+      "dateAdded": 1723950072496,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "432",
+      "name": "shell check",
+      "url": "https://github.com/koalaman/shellcheck",
+      "parentId": "1617",
+      "index": 1,
+      "dateAdded": 1722558797875,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1505",
+      "name": "Kejilion.sh - 一键脚本工具箱",
+      "url": "https://kejilion.sh/index-zh-CN.html#features",
+      "parentId": "1617",
+      "index": 2,
+      "dateAdded": 1747018342431,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1425",
+      "name": "Lego :: Let’s Encrypt client and ACME library written in Go.",
+      "url": "https://go-acme.github.io/lego/",
+      "parentId": "1617",
+      "index": 3,
+      "dateAdded": 1743908766913,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1618",
+      "name": "开发者平台",
+      "url": null,
+      "parentId": "318",
+      "index": 7,
+      "dateAdded": 1749082496982,
+      "dateGroupModified": 1754363355881,
+      "isFolder": true
+    },
+    {
+      "id": "1241",
+      "name": "My Telegram",
+      "url": "https://my.telegram.org/",
+      "parentId": "1618",
+      "index": 0,
+      "dateAdded": 1739448732972,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "519",
+      "name": "微信红包封面开放平台",
+      "url": "https://cover.weixin.qq.com/cgi-bin/mmcover-bin/readtemplate?t=page/index#/covers",
+      "parentId": "1618",
+      "index": 1,
+      "dateAdded": 1722689094017,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1569",
+      "name": "飞书管理后台",
+      "url": "https://mcnze3jebls0.feishu.cn/admin/index",
+      "parentId": "1618",
+      "index": 2,
+      "dateAdded": 1748147353879,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1865",
+      "name": "支付宝开放平台",
+      "url": "https://open.alipay.com/",
+      "parentId": "1618",
+      "index": 3,
+      "dateAdded": 1753838118695,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1866",
+      "name": "抖音开放平台",
+      "url": "https://developer.open-douyin.com/",
+      "parentId": "1618",
+      "index": 4,
+      "dateAdded": 1753838141648,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1875",
+      "name": "快应用联盟官方网站",
+      "url": "https://www.quickapp.cn/",
+      "parentId": "1618",
+      "index": 5,
+      "dateAdded": 1754089852656,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "414",
+      "name": "API接口工具",
+      "url": "https://apifox.com/",
+      "parentId": "318",
+      "index": 8,
+      "dateAdded": 1712021639349,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "428",
+      "name": "可视化爬虫",
+      "url": "https://www.easyspider.cn/",
+      "parentId": "318",
+      "index": 9,
+      "dateAdded": 1716295460714,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "749",
+      "name": "OneinStack - 一键PHP/JAVA安装工具",
+      "url": "https://oneinstack.com/",
+      "parentId": "318",
+      "index": 10,
+      "dateAdded": 1727528796214,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1445",
+      "name": "Chrome for Testing availability",
+      "url": "https://googlechromelabs.github.io/chrome-for-testing/#stable",
+      "parentId": "318",
+      "index": 11,
+      "dateAdded": 1744438624938,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1765",
+      "name": "个推",
+      "url": "https://www.getui.com/",
+      "parentId": "318",
+      "index": 12,
+      "dateAdded": 1751685027713,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1896",
+      "name": "Canva可画",
+      "url": "https://www.canva.com/",
+      "parentId": "318",
+      "index": 13,
+      "dateAdded": 1754817717084,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "434",
+      "name": "AI",
+      "url": null,
+      "parentId": "1",
+      "index": 7,
+      "dateAdded": 1677828867016,
+      "dateGroupModified": 1748930149744,
+      "isFolder": true
+    },
+    {
+      "id": "1230",
+      "name": "开箱即用",
+      "url": null,
+      "parentId": "434",
+      "index": 0,
+      "dateAdded": 1739329945402,
+      "dateGroupModified": 1752225214543,
+      "isFolder": true
+    },
+    {
+      "id": "1231",
+      "name": "DeepSeek - 探索未至之境",
+      "url": "https://chat.deepseek.com/",
+      "parentId": "1230",
+      "index": 0,
+      "dateAdded": 1739329967451,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "451",
+      "name": "阿里云 - 通义千问",
+      "url": "https://tongyi.aliyun.com/",
+      "parentId": "1230",
+      "index": 1,
+      "dateAdded": 1680865897043,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1232",
+      "name": "智谱清言",
+      "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh",
+      "parentId": "1230",
+      "index": 2,
+      "dateAdded": 1739330017634,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "464",
+      "name": "Kimi",
+      "url": "https://kimi.moonshot.cn/",
+      "parentId": "1230",
+      "index": 3,
+      "dateAdded": 1711358407990,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "466",
+      "name": "Gemini",
+      "url": "https://gemini.google.com/app/35280b43af50fce6",
+      "parentId": "1230",
+      "index": 4,
+      "dateAdded": 1714028170373,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1233",
+      "name": "文心一言",
+      "url": "https://yiyan.baidu.com/",
+      "parentId": "1230",
+      "index": 5,
+      "dateAdded": 1739330157133,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1235",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "parentId": "1230",
+      "index": 6,
+      "dateAdded": 1739330933616,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1404",
+      "name": "bolt.new",
+      "url": "https://bolt.new/",
+      "parentId": "1230",
+      "index": 7,
+      "dateAdded": 1743222803109,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1537",
+      "name": "Raphael AI - 免费无限制 AI 图像生成器",
+      "url": "https://raphael.app/zh",
+      "parentId": "1230",
+      "index": 8,
+      "dateAdded": 1747622602122,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1570",
+      "name": "豆包 - 字节跳动旗下 AI 智能助手",
+      "url": "https://www.doubao.com/chat/",
+      "parentId": "1230",
+      "index": 9,
+      "dateAdded": 1748156546812,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1604",
+      "name": "Qwen",
+      "url": "https://chat.qwen.ai/",
+      "parentId": "1230",
+      "index": 10,
+      "dateAdded": 1748930149744,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1755",
+      "name": "MiniMax Audio | 国外版",
+      "url": "https://www.minimax.io/audio",
+      "parentId": "1230",
+      "index": 11,
+      "dateAdded": 1751514424530,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1756",
+      "name": "MiniMax -  国内版",
+      "url": "https://chat.minimaxi.com/",
+      "parentId": "1230",
+      "index": 12,
+      "dateAdded": 1751514490669,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1782",
+      "name": "转换成矢量图",
+      "url": "https://www.recraft.ai/projects",
+      "parentId": "1230",
+      "index": 13,
+      "dateAdded": 1752225194160,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "435",
+      "name": "AI写作",
+      "url": null,
+      "parentId": "434",
+      "index": 1,
+      "dateAdded": 1677828867016,
+      "dateGroupModified": 1677828867016,
+      "isFolder": true
+    },
+    {
+      "id": "436",
+      "name": "秘塔写作猫",
+      "url": "https://xiezuocat.com/?s=ghxi",
+      "parentId": "435",
+      "index": 0,
+      "dateAdded": 1677828842858,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "437",
+      "name": "AI绘画",
+      "url": null,
+      "parentId": "434",
+      "index": 2,
+      "dateAdded": 1678499586522,
+      "dateGroupModified": 1690695215579,
+      "isFolder": true
+    },
+    {
+      "id": "438",
+      "name": "Civitai | Stable Diffusion models, embeddings, hypernetworks and more",
+      "url": "https://civitai.com/",
+      "parentId": "437",
+      "index": 0,
+      "dateAdded": 1678499567691,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "439",
+      "name": "魔咒百科词典",
+      "url": "https://aitag.top/",
+      "parentId": "437",
+      "index": 1,
+      "dateAdded": 1678520934540,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "440",
+      "name": "NovelAI tag在线生成器",
+      "url": "https://wolfchen.top/tag/",
+      "parentId": "437",
+      "index": 2,
+      "dateAdded": 1678520954374,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "441",
+      "name": "魔导绪论",
+      "url": "https://magic-tag.netlify.app/#/",
+      "parentId": "437",
+      "index": 3,
+      "dateAdded": 1678520990469,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "442",
+      "name": "爱作画",
+      "url": "https://www.aizuohua.com/#/aicz",
+      "parentId": "437",
+      "index": 4,
+      "dateAdded": 1678615020353,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "443",
+      "name": "AutoDL-品质GPU租用平台-租GPU就上AutoDL",
+      "url": "https://www.autodl.com/market/list?voucher=register",
+      "parentId": "437",
+      "index": 5,
+      "dateAdded": 1678687421580,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "444",
+      "name": "海艺",
+      "url": "https://www.seaart.ai/home",
+      "parentId": "437",
+      "index": 6,
+      "dateAdded": 1686530789994,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "445",
+      "name": "Leonardo.ai",
+      "url": "https://leonardo.ai/",
+      "parentId": "437",
+      "index": 7,
+      "dateAdded": 1686530830520,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "446",
+      "name": "堆友—3D在线编辑器，0门槛堆出无限创意，免费下载，免费使用",
+      "url": "https://d.design/?spm=ddesign.ai.0.0.5beef786NI7xaI",
+      "parentId": "437",
+      "index": 8,
+      "dateAdded": 1690605235131,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "447",
+      "name": "新手入门 – 第 3 页 – WordPress大学",
+      "url": "https://www.wpdaxue.com/tutorials/start/page/3",
+      "parentId": "437",
+      "index": 9,
+      "dateAdded": 1690695215579,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "448",
+      "name": "自建",
+      "url": null,
+      "parentId": "434",
+      "index": 3,
+      "dateAdded": 1702174648488,
+      "dateGroupModified": 1748051944618,
+      "isFolder": true
+    },
+    {
+      "id": "1178",
+      "name": "Gemini",
+      "url": null,
+      "parentId": "448",
+      "index": 0,
+      "dateAdded": 1738507259785,
+      "dateGroupModified": 1738720155545,
+      "isFolder": true
+    },
+    {
+      "id": "1177",
+      "name": "openai-gemini/src/worker.mjs at main · PublicAffairs/openai-gemini",
+      "url": "https://github.com/PublicAffairs/openai-gemini/blob/main/src/worker.mjs",
+      "parentId": "1178",
+      "index": 0,
+      "dateAdded": 1738507239951,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1184",
+      "name": "gemini-next-chat",
+      "url": "https://github.com/u14app/gemini-next-chat",
+      "parentId": "1178",
+      "index": 1,
+      "dateAdded": 1738720133110,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "449",
+      "name": "FastGPT",
+      "url": "https://doc.fastgpt.in/docs/",
+      "parentId": "448",
+      "index": 1,
+      "dateAdded": 1702174624583,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "450",
+      "name": "LobeHub",
+      "url": "https://lobehub.com/zh",
+      "parentId": "448",
+      "index": 2,
+      "dateAdded": 1721648725462,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1153",
+      "name": "Ollama",
+      "url": "https://ollama.com/",
+      "parentId": "448",
+      "index": 3,
+      "dateAdded": 1738072193247,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1359",
+      "name": "Dify",
+      "url": "https://docs.dify.ai/zh-hans",
+      "parentId": "448",
+      "index": 4,
+      "dateAdded": 1742018081526,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1561",
+      "name": "产品简介 - Dify Docs",
+      "url": "https://docs.dify.ai/zh-hans/introduction",
+      "parentId": "448",
+      "index": 5,
+      "dateAdded": 1748047808233,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1485",
+      "name": "开放平台",
+      "url": null,
+      "parentId": "434",
+      "index": 4,
+      "dateAdded": 1746357431496,
+      "dateGroupModified": 1746357458449,
+      "isFolder": true
+    },
+    {
+      "id": "462",
+      "name": "Coze - AI Bot开发平台",
+      "url": "https://www.coze.cn/",
+      "parentId": "1485",
+      "index": 0,
+      "dateAdded": 1707125340658,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "458",
+      "name": "讯飞星火开发平台",
+      "url": "https://www.xfyun.cn/",
+      "parentId": "1485",
+      "index": 1,
+      "dateAdded": 1702122184866,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1357",
+      "name": "智谱AI开放平台",
+      "url": "https://bigmodel.cn/",
+      "parentId": "1485",
+      "index": 2,
+      "dateAdded": 1742014212385,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1358",
+      "name": "DeepSeek 开放平台",
+      "url": "https://platform.deepseek.com/usage",
+      "parentId": "1485",
+      "index": 3,
+      "dateAdded": 1742016899376,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "469",
+      "name": "Google AI Studio",
+      "url": "https://makersuite.google.com/app/prompts/new_freeform",
+      "parentId": "1485",
+      "index": 4,
+      "dateAdded": 1703043991916,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1242",
+      "name": "硅基流动",
+      "url": "https://cloud.siliconflow.cn/models",
+      "parentId": "1485",
+      "index": 5,
+      "dateAdded": 1739531225884,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1243",
+      "name": "硅基流动",
+      "url": "https://siliconflow.cn/zh-cn/",
+      "parentId": "1485",
+      "index": 6,
+      "dateAdded": 1739533576536,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1237",
+      "name": "辅助工具",
+      "url": null,
+      "parentId": "434",
+      "index": 5,
+      "dateAdded": 1739332379741,
+      "dateGroupModified": 1739417505532,
+      "isFolder": true
+    },
+    {
+      "id": "1236",
+      "name": "OfficeAI助手 - 免费办公智能AI助手, AI写作",
+      "url": "https://www.office-ai.cn/",
+      "parentId": "1237",
+      "index": 0,
+      "dateAdded": 1739332368492,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1520",
+      "name": "魔搭社区",
+      "url": "https://modelscope.cn/home",
+      "parentId": "434",
+      "index": 6,
+      "dateAdded": 1747285531332,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "453",
+      "name": "百度 - 飞浆",
+      "url": "https://aistudio.baidu.com/aistudio/index",
+      "parentId": "434",
+      "index": 7,
+      "dateAdded": 1675326267855,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "456",
+      "name": "OhMyGPT - 可以获取免费的apikey",
+      "url": "https://aigptx.top/",
+      "parentId": "434",
+      "index": 8,
+      "dateAdded": 1697073070006,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "457",
+      "name": "LinkAI - 极简未来",
+      "url": "https://link-ai.tech/portal",
+      "parentId": "434",
+      "index": 9,
+      "dateAdded": 1702025308311,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "463",
+      "name": "Chat with Open Large Language Models",
+      "url": "https://arena.lmsys.org/",
+      "parentId": "434",
+      "index": 10,
+      "dateAdded": 1711328496635,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1234",
+      "name": "支付宝 - 百宝箱",
+      "url": "https://tbox.alipay.com/about",
+      "parentId": "434",
+      "index": 11,
+      "dateAdded": 1739330568144,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1409",
+      "name": "Readdy",
+      "url": "https://readdy.ai/home/4414d850-2d58-4fdb-ad13-07dabe6db91d",
+      "parentId": "434",
+      "index": 12,
+      "dateAdded": 1743298752351,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1600",
+      "name": "MCP Servers",
+      "url": "https://mcp.so/",
+      "parentId": "434",
+      "index": 13,
+      "dateAdded": 1748867744832,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1601",
+      "name": "Cherry Studio 官方网站 - 全能的AI助手",
+      "url": "https://www.cherry-ai.com/",
+      "parentId": "434",
+      "index": 14,
+      "dateAdded": 1748868031167,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "472",
+      "name": "天天向上",
+      "url": null,
+      "parentId": "1",
+      "index": 8,
+      "dateAdded": 1646129963780,
+      "dateGroupModified": 1747791203755,
+      "isFolder": true
+    },
+    {
+      "id": "473",
+      "name": "Web前端",
+      "url": null,
+      "parentId": "472",
+      "index": 0,
+      "dateAdded": 1682487158428,
+      "dateGroupModified": 1711502835213,
+      "isFolder": true
+    },
+    {
+      "id": "474",
+      "name": "css工具",
+      "url": null,
+      "parentId": "473",
+      "index": 0,
+      "dateAdded": 1685431805039,
+      "dateGroupModified": 1712738340262,
+      "isFolder": true
+    },
+    {
+      "id": "475",
+      "name": "Neumorphism/Soft UI CSS shadow generator",
+      "url": "https://neumorphism.io/#e0e0e0",
+      "parentId": "474",
+      "index": 0,
+      "dateAdded": 1685431772974,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "476",
+      "name": "Normalize.css: Make browsers render all elements more consistently.",
+      "url": "http://necolas.github.io/normalize.css/",
+      "parentId": "474",
+      "index": 1,
+      "dateAdded": 1690967671447,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "477",
+      "name": "Can I use... Support tables for HTML5, CSS3, etc",
+      "url": "https://caniuse.com/",
+      "parentId": "474",
+      "index": 2,
+      "dateAdded": 1691070091225,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "478",
+      "name": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
+      "url": "https://cssgradient.io/gradient-backgrounds/",
+      "parentId": "474",
+      "index": 3,
+      "dateAdded": 1712738340262,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "479",
+      "name": "JavaScript",
+      "url": null,
+      "parentId": "473",
+      "index": 1,
+      "dateAdded": 1693375203523,
+      "dateGroupModified": 1693375203523,
+      "isFolder": true
+    },
+    {
+      "id": "480",
+      "name": "JavaScript Guidebook - 📚 JavaScript 知识图谱：ECMAScript、DOM、BOM、HTML5、计算机网络 - JavaScript Guidebook",
+      "url": "https://tsejx.github.io/javascript-guidebook/",
+      "parentId": "479",
+      "index": 0,
+      "dateAdded": 1693375185304,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "481",
+      "name": "tsejx (Jehoshaphat Tse)",
+      "url": "https://github.com/tsejx",
+      "parentId": "473",
+      "index": 2,
+      "dateAdded": 1693375209969,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "482",
+      "name": "TresJS | VueJS 的 3D 解决方案",
+      "url": "https://docs.tresjs.org/zh/",
+      "parentId": "473",
+      "index": 3,
+      "dateAdded": 1711502835213,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "483",
+      "name": "python",
+      "url": null,
+      "parentId": "472",
+      "index": 1,
+      "dateAdded": 1712037555729,
+      "dateGroupModified": 1732244958912,
+      "isFolder": true
+    },
+    {
+      "id": "484",
+      "name": "FastUI-快速构建用户界面",
+      "url": "https://github.com/pydantic/FastUI",
+      "parentId": "483",
+      "index": 0,
+      "dateAdded": 1712037572486,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "485",
+      "name": "m3u8，一个强悍的python库",
+      "url": "https://mp.weixin.qq.com/s/sA_2IVT-z_dt1ehfo-QY9w",
+      "parentId": "483",
+      "index": 1,
+      "dateAdded": 1712037769633,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "962",
+      "name": "larymak/Python-project-Scripts: This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo",
+      "url": "https://github.com/larymak/Python-project-Scripts",
+      "parentId": "483",
+      "index": 2,
+      "dateAdded": 1732240923815,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "963",
+      "name": "pyscript/pyscript：PyScript 是浏览器中 Python 的开源平台。试用 PyScript：https://pyscript.com 示例：https://tinyurl.com/pyscript-examples 社区：https://discord.gg/HxvBtukrg2",
+      "url": "https://github.com/pyscript/pyscript?tab=readme-ov-file",
+      "parentId": "483",
+      "index": 3,
+      "dateAdded": 1732241262261,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "964",
+      "name": "html5lib",
+      "url": "https://github.com/html5lib/html5lib-python",
+      "parentId": "483",
+      "index": 4,
+      "dateAdded": 1732243266658,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "965",
+      "name": "一定要收藏！汇总 100 个适合新手入门的 Python 项目",
+      "url": "https://mp.weixin.qq.com/s/IKX87Aeght7wv5ANO1sWPw",
+      "parentId": "483",
+      "index": 5,
+      "dateAdded": 1732243313905,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "486",
+      "name": "NodeJS",
+      "url": null,
+      "parentId": "472",
+      "index": 2,
+      "dateAdded": 1714115031512,
+      "dateGroupModified": 1714115031512,
+      "isFolder": true
+    },
+    {
+      "id": "487",
+      "name": "EJS -- 嵌入式 JavaScript 模板引擎 | EJS 中文文档",
+      "url": "https://ejs.bootcss.com/",
+      "parentId": "486",
+      "index": 0,
+      "dateAdded": 1679814939820,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "488",
+      "name": "NodeJS技术栈",
+      "url": "https://www.nodejs.red/#/README?id=%E5%AE%98%E6%96%B9%E7%BD%91%E5%9D%80",
+      "parentId": "486",
+      "index": 1,
+      "dateAdded": 1679556028281,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "489",
+      "name": "Vue",
+      "url": null,
+      "parentId": "472",
+      "index": 3,
+      "dateAdded": 1714115068576,
+      "dateGroupModified": 1720661677595,
+      "isFolder": true
+    },
+    {
+      "id": "490",
+      "name": "Vue.js - 渐进式 JavaScript 框架 | Vue.js",
+      "url": "https://cn.vuejs.org/",
+      "parentId": "489",
+      "index": 0,
+      "dateAdded": 1714115086094,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "491",
+      "name": "VUE3快速入门手册 – 学启网",
+      "url": "https://studyembark.com/book/vue3-quick-start-guide/",
+      "parentId": "489",
+      "index": 1,
+      "dateAdded": 1720661677595,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1544",
+      "name": "其他",
+      "url": null,
+      "parentId": "472",
+      "index": 4,
+      "dateAdded": 1747791073848,
+      "dateGroupModified": 1747791150113,
+      "isFolder": true
+    },
+    {
+      "id": "494",
+      "name": "广东省人事考试局网站",
+      "url": "http://rsks.gd.gov.cn/ksdt/bmdt/index.html",
+      "parentId": "1544",
+      "index": 0,
+      "dateAdded": 1653695191894,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "496",
+      "name": "公开招聘社工考试管理信息系统",
+      "url": "http://ks.zmatou.com/",
+      "parentId": "1544",
+      "index": 1,
+      "dateAdded": 1640255095159,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "497",
+      "name": "佛山市图书馆",
+      "url": "https://www.fslib.com.cn/",
+      "parentId": "1544",
+      "index": 2,
+      "dateAdded": 1641973757008,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "498",
+      "name": "国家图书馆——掌上国图",
+      "url": "http://www.nlc.cn/mobile/yycx/",
+      "parentId": "1544",
+      "index": 3,
+      "dateAdded": 1652883981015,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "499",
+      "name": "中国法律服务网",
+      "url": "http://www.12348.gov.cn/#/homepage",
+      "parentId": "1544",
+      "index": 4,
+      "dateAdded": 1652883931254,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "500",
+      "name": "国家法律法规数据库",
+      "url": "https://flk.npc.gov.cn/index.html",
+      "parentId": "1544",
+      "index": 5,
+      "dateAdded": 1652883586506,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "492",
+      "name": "菜鸟教程",
+      "url": "https://www.runoob.com/",
+      "parentId": "472",
+      "index": 5,
+      "dateAdded": 1682228982829,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1545",
+      "name": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/zh-CN/",
+      "parentId": "472",
+      "index": 6,
+      "dateAdded": 1747791150113,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "493",
+      "name": "w3school 在线教程",
+      "url": "https://www.w3school.com.cn/index.html",
+      "parentId": "472",
+      "index": 7,
+      "dateAdded": 1675773540727,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "501",
+      "name": "编程词典",
+      "url": "http://dict.code-nav.cn/",
+      "parentId": "472",
+      "index": 8,
+      "dateAdded": 1680573617526,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "502",
+      "name": "终身教育平台",
+      "url": "https://le.ouchn.cn/home",
+      "parentId": "472",
+      "index": 9,
+      "dateAdded": 1681476160650,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "503",
+      "name": "Nginx中文文档",
+      "url": "https://blog.redis.com.cn/doc/index.html",
+      "parentId": "472",
+      "index": 10,
+      "dateAdded": 1685422196271,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "504",
+      "name": "Markdown 官方教程",
+      "url": "https://markdown.com.cn/",
+      "parentId": "472",
+      "index": 11,
+      "dateAdded": 1689833441905,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "506",
+      "name": "现代 JavaScript 教程",
+      "url": "https://zh.javascript.info/",
+      "parentId": "472",
+      "index": 12,
+      "dateAdded": 1691982246791,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "507",
+      "name": "GitHub Packages 文档 - GitHub 文档",
+      "url": "https://docs.github.com/zh/packages",
+      "parentId": "472",
+      "index": 13,
+      "dateAdded": 1696594653814,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "508",
+      "name": "全栈公开课",
+      "url": "https://fullstackopen.com/zh/",
+      "parentId": "472",
+      "index": 14,
+      "dateAdded": 1707958830862,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "509",
+      "name": "‬​‬‍﻿‬​​​​​‬‍​‬​​​​​‬​‌⁠⁠​⁠⁠⁠‬​‌​‍⁠﻿﻿‍﻿﻿‍﻿‬​‬‌课程说明 - 飞书云文档",
+      "url": "https://b11et3un53m.feishu.cn/wiki/FYNkwb1i6i0qwCk7lF2caEq5nRe",
+      "parentId": "472",
+      "index": 15,
+      "dateAdded": 1721270421609,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "510",
+      "name": "星云-全栈知识体系",
+      "url": "https://blog.xygalaxy.com/",
+      "parentId": "472",
+      "index": 16,
+      "dateAdded": 1721344646892,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "830",
+      "name": "Hello 算法",
+      "url": "https://www.hello-algo.com/",
+      "parentId": "472",
+      "index": 17,
+      "dateAdded": 1729210684117,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "522",
+      "name": "工具",
+      "url": null,
+      "parentId": "1",
+      "index": 9,
+      "dateAdded": 1639983687759,
+      "dateGroupModified": 1755330878053,
+      "isFolder": true
+    },
+    {
+      "id": "1533",
+      "name": "在线工具",
+      "url": null,
+      "parentId": "522",
+      "index": 0,
+      "dateAdded": 1747534420874,
+      "dateGroupModified": 1753838118695,
+      "isFolder": true
+    },
+    {
+      "id": "649",
+      "name": "歌词字幕在线转换器",
+      "url": "https://www.lrccon.com/convert?lang=zh-hans",
+      "parentId": "1533",
+      "index": 0,
+      "dateAdded": 1698656468822,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "650",
+      "name": "ZoomEye(\"钟馗之眼\")网络空间搜索引擎",
+      "url": "https://www.zoomeye.org/",
+      "parentId": "1533",
+      "index": 1,
+      "dateAdded": 1675655986233,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "665",
+      "name": "国内端口检测工具",
+      "url": "https://tool.chinaz.com/port",
+      "parentId": "1533",
+      "index": 2,
+      "dateAdded": 1698063878703,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "666",
+      "name": "国外端口检测工具",
+      "url": "https://www.yougetsignal.com/tools/open-ports/",
+      "parentId": "1533",
+      "index": 3,
+      "dateAdded": 1698063738894,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "667",
+      "name": "curl代码转换",
+      "url": "https://curlconverter.com/go/#",
+      "parentId": "1533",
+      "index": 4,
+      "dateAdded": 1721877449917,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "678",
+      "name": "抠图",
+      "url": "https://www.remove.bg/zh",
+      "parentId": "1533",
+      "index": 5,
+      "dateAdded": 1725453487297,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "680",
+      "name": "文本处理",
+      "url": "https://txttool.cn/",
+      "parentId": "1533",
+      "index": 6,
+      "dateAdded": 1725453606099,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "681",
+      "name": "去水印",
+      "url": "https://www.wuhenqushuiyin.com/sub-image-watermark/",
+      "parentId": "1533",
+      "index": 7,
+      "dateAdded": 1725453853494,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "765",
+      "name": "在线魔方",
+      "url": "https://bsehovac.github.io/the-cube/",
+      "parentId": "1533",
+      "index": 8,
+      "dateAdded": 1728131867149,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "908",
+      "name": "Cron - 在线Cron表达式生成器",
+      "url": "https://cron.ciding.cc/",
+      "parentId": "1533",
+      "index": 9,
+      "dateAdded": 1730854018520,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "966",
+      "name": "在线PS",
+      "url": "https://www.photopea.com/",
+      "parentId": "1533",
+      "index": 10,
+      "dateAdded": 1732244958912,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1408",
+      "name": "MD2Card - Markdown 转知识卡片工具",
+      "url": "https://md2card.com/zh",
+      "parentId": "1533",
+      "index": 11,
+      "dateAdded": 1743297127894,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "942",
+      "name": "广佛地铁",
+      "url": "https://passenger.fmetro.net:31680/mobile/pages/passenger/railTransitMap",
+      "parentId": "1533",
+      "index": 12,
+      "dateAdded": 1731646349143,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1386",
+      "name": "小米云服务",
+      "url": "https://i.mi.com/",
+      "parentId": "1533",
+      "index": 13,
+      "dateAdded": 1742533664058,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1861",
+      "name": "MD2Card - Markdown 转知识卡片工具",
+      "url": "https://md2card.cn/zh",
+      "parentId": "1533",
+      "index": 14,
+      "dateAdded": 1753708150673,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1864",
+      "name": "一键激活windows系统和office软件,Office软件安装,KMS激活",
+      "url": "https://kms.cx/",
+      "parentId": "1533",
+      "index": 15,
+      "dateAdded": 1753792318474,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "528",
+      "name": "导航栏",
+      "url": null,
+      "parentId": "522",
+      "index": 1,
+      "dateAdded": 1695859464791,
+      "dateGroupModified": 1728691186996,
+      "isFolder": true
+    },
+    {
+      "id": "531",
+      "name": "刘明野的工具箱",
+      "url": "https://tool.liumingye.cn/",
+      "parentId": "528",
+      "index": 0,
+      "dateAdded": 1646192584859,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "532",
+      "name": "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想",
+      "url": "https://www.itdog.cn/",
+      "parentId": "528",
+      "index": 1,
+      "dateAdded": 1698656319097,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "533",
+      "name": "Web Apps by 123apps - 编辑、转换、创建",
+      "url": "https://123apps.com/cn/",
+      "parentId": "528",
+      "index": 2,
+      "dateAdded": 1712017249591,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "534",
+      "name": "帮小忙，腾讯QQ浏览器在线工具箱平台",
+      "url": "https://tool.browser.qq.com/",
+      "parentId": "528",
+      "index": 3,
+      "dateAdded": 1695858367436,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "535",
+      "name": "程序员导航-CXY521",
+      "url": "http://www.cxy521.com/",
+      "parentId": "528",
+      "index": 4,
+      "dateAdded": 1654496178774,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "536",
+      "name": "AI工具集导航",
+      "url": "https://ai-bot.cn/",
+      "parentId": "528",
+      "index": 5,
+      "dateAdded": 1680706227310,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "537",
+      "name": "深度AI导航 | 国内外AI工具导航大全",
+      "url": "https://www.deepdhai.com/",
+      "parentId": "528",
+      "index": 6,
+      "dateAdded": 1695859480707,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "538",
+      "name": "Jay的资源库",
+      "url": "https://www.lovejay.top/",
+      "parentId": "528",
+      "index": 7,
+      "dateAdded": 1654168167456,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "784",
+      "name": "即时工具",
+      "url": "https://www.67tool.com/?ref=sdk",
+      "parentId": "528",
+      "index": 8,
+      "dateAdded": 1728650546479,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "539",
+      "name": "电脑硬件",
+      "url": null,
+      "parentId": "522",
+      "index": 2,
+      "dateAdded": 1647852374978,
+      "dateGroupModified": 1686044212657,
+      "isFolder": true
+    },
+    {
+      "id": "540",
+      "name": "硬盘检测工具",
+      "url": null,
+      "parentId": "539",
+      "index": 0,
+      "dateAdded": 1643527287264,
+      "dateGroupModified": 1643527297097,
+      "isFolder": true
+    },
+    {
+      "id": "541",
+      "name": "ATTO Disk Benchmark",
+      "url": "https://www.atto.com/disk-benchmark/disk-benchmark-form-completion.php",
+      "parentId": "540",
+      "index": 0,
+      "dateAdded": 1643527227270,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "542",
+      "name": "CrystalDiskMark",
+      "url": "http://crystalmark.info/en/software/crystaldiskmark/",
+      "parentId": "540",
+      "index": 1,
+      "dateAdded": 1643527297097,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "543",
+      "name": "微星",
+      "url": "https://cn.msi.com/",
+      "parentId": "539",
+      "index": 1,
+      "dateAdded": 1647852358460,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "544",
+      "name": "华硕",
+      "url": "https://www.asus.com.cn/",
+      "parentId": "539",
+      "index": 2,
+      "dateAdded": 1647853034723,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "546",
+      "name": "CPU比较/处理器比较",
+      "url": "https://www.cpu-monkey.com/zh-cn/",
+      "parentId": "539",
+      "index": 3,
+      "dateAdded": 1686044212657,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "547",
+      "name": "软件",
+      "url": null,
+      "parentId": "522",
+      "index": 3,
+      "dateAdded": 1664249868321,
+      "dateGroupModified": 1752225194160,
+      "isFolder": true
+    },
+    {
+      "id": "550",
+      "name": "精选软件",
+      "url": "https://mp.weixin.qq.com/s/OenLyfGjWPd1QgQ7c6X8sQ",
+      "parentId": "547",
+      "index": 0,
+      "dateAdded": 1644473299664,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "551",
+      "name": "win11精简版",
+      "url": "https://archive.org/details/tiny-11_202302",
+      "parentId": "547",
+      "index": 1,
+      "dateAdded": 1675569453193,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "552",
+      "name": "edge浏览器内测",
+      "url": "https://www.microsoftedgeinsider.com/zh-cn/download/",
+      "parentId": "547",
+      "index": 2,
+      "dateAdded": 1671615238913,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "553",
+      "name": "PotPlayer中文官网",
+      "url": "https://globalpotplayer.cn/",
+      "parentId": "547",
+      "index": 3,
+      "dateAdded": 1664323428732,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "554",
+      "name": "抓包工具Wireshark · Download",
+      "url": "https://www.wireshark.org/download.html",
+      "parentId": "547",
+      "index": 4,
+      "dateAdded": 1650205650240,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "555",
+      "name": "Edgeless-强大而优雅的半开源PE工具",
+      "url": "https://home.edgeless.top/#",
+      "parentId": "547",
+      "index": 5,
+      "dateAdded": 1654508308090,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "556",
+      "name": "团子翻译器-主页",
+      "url": "https://translator.dango.cloud/",
+      "parentId": "547",
+      "index": 6,
+      "dateAdded": 1655888541781,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "557",
+      "name": "软件替代品",
+      "url": "https://alternativeto.net/",
+      "parentId": "547",
+      "index": 7,
+      "dateAdded": 1657267039100,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "558",
+      "name": "Windows超级管理器",
+      "url": "https://www.collithel.com/supermanager/",
+      "parentId": "547",
+      "index": 8,
+      "dateAdded": 1664241400390,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "560",
+      "name": "PotPlayer",
+      "url": "https://potplayer.org/",
+      "parentId": "547",
+      "index": 9,
+      "dateAdded": 1626006414133,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "561",
+      "name": "硕鼠",
+      "url": "https://www.flvcd.com/index.htm",
+      "parentId": "547",
+      "index": 10,
+      "dateAdded": 1648007453507,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "562",
+      "name": "Ventoy-启动盘",
+      "url": "https://www.ventoy.net/cn/index.html",
+      "parentId": "547",
+      "index": 11,
+      "dateAdded": 1631510472855,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "563",
+      "name": "Geek-卸载神器",
+      "url": "https://geekuninstaller.com/",
+      "parentId": "547",
+      "index": 12,
+      "dateAdded": 1665391043044,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "565",
+      "name": "WinNTSetup v5.2.6 / 5.3 Beta 1 - Install Windows from USB - MSFN",
+      "url": "https://msfn.org/board/topic/149612-winntsetup-v526-53-beta-1/",
+      "parentId": "547",
+      "index": 13,
+      "dateAdded": 1666858536757,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "566",
+      "name": "DVDFab",
+      "url": "https://www.dvdfab.cn/free.htm?trackid=headmenu2,headmenu2",
+      "parentId": "547",
+      "index": 14,
+      "dateAdded": 1667099045489,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "567",
+      "name": "Kite - 一款专业级热体验优化工具",
+      "url": "http://kite.mi.com/#/?id=kite",
+      "parentId": "547",
+      "index": 15,
+      "dateAdded": 1667349085871,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "568",
+      "name": "常青园文档中心",
+      "url": "https://docs.catrol.cn/",
+      "parentId": "547",
+      "index": 16,
+      "dateAdded": 1667533754896,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "569",
+      "name": "KitX | Home",
+      "url": "https://kitx.apps.catrol.cn/",
+      "parentId": "547",
+      "index": 17,
+      "dateAdded": 1667533867048,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "570",
+      "name": "B站录播姬",
+      "url": "https://rec.danmuji.org/",
+      "parentId": "547",
+      "index": 18,
+      "dateAdded": 1667620682548,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "571",
+      "name": "Apifox - API 文档、调试、Mock、测试一体化协作平台 - 接口文档工具，接口自动化测试工具，接口Mock工具，API文档工具，API Mock工具，API自动化测试工具",
+      "url": "https://www.apifox.cn/",
+      "parentId": "547",
+      "index": 19,
+      "dateAdded": 1667787106783,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "572",
+      "name": "xshell免费",
+      "url": "https://www.xshell.com/zh/free-for-home-school/",
+      "parentId": "547",
+      "index": 20,
+      "dateAdded": 1668132230920,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "574",
+      "name": "下载 IntelliJ IDEA：JetBrains 功能强大、符合人体工程学的 Java IDE",
+      "url": "https://www.jetbrains.com.cn/idea/download/#section=windows",
+      "parentId": "547",
+      "index": 21,
+      "dateAdded": 1670481625888,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "575",
+      "name": "ZY Player 资源播放器",
+      "url": "http://zyplayer.fun/",
+      "parentId": "547",
+      "index": 22,
+      "dateAdded": 1678421203096,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "576",
+      "name": "Quicker软件 您的指尖工具箱 - Quicker",
+      "url": "https://getquicker.net/",
+      "parentId": "547",
+      "index": 23,
+      "dateAdded": 1678671051280,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "577",
+      "name": "Unlock Music Git Service",
+      "url": "https://git.unlock-music.dev/",
+      "parentId": "547",
+      "index": 24,
+      "dateAdded": 1679305541133,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "578",
+      "name": "TS转MP4 魔力玄 官方 FFmpeg GUI 免安装 超强视频工具",
+      "url": "https://medlexo.is-an.app/cn.php",
+      "parentId": "547",
+      "index": 25,
+      "dateAdded": 1680054289929,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "579",
+      "name": "哇哦菌-破解软件下载基地",
+      "url": "https://www.waodown.com/",
+      "parentId": "547",
+      "index": 26,
+      "dateAdded": 1682494343190,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "580",
+      "name": "音乐",
+      "url": null,
+      "parentId": "547",
+      "index": 27,
+      "dateAdded": 1691650362322,
+      "dateGroupModified": 1728475710262,
+      "isFolder": true
+    },
+    {
+      "id": "581",
+      "name": "FxSound",
+      "url": "https://www.fxsound.com/",
+      "parentId": "580",
+      "index": 0,
+      "dateAdded": 1691650338810,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "582",
+      "name": "vooidzero/B23Downloader: （已长久停更）",
+      "url": "https://github.com/vooidzero/B23Downloader",
+      "parentId": "580",
+      "index": 1,
+      "dateAdded": 1691651252912,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "583",
+      "name": "洛雪音乐助手",
+      "url": "https://github.com/lyswhut/lx-music-desktop",
+      "parentId": "580",
+      "index": 2,
+      "dateAdded": 1696591696151,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "584",
+      "name": "cwuom/MusicHelper: 一个通过Python编写的QQ、网易云音乐无损音乐爬取工具",
+      "url": "https://github.com/cwuom/MusicHelper",
+      "parentId": "580",
+      "index": 3,
+      "dateAdded": 1696635760024,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "585",
+      "name": "方格音乐",
+      "url": "http://fonger.top/",
+      "parentId": "580",
+      "index": 4,
+      "dateAdded": 1719204680008,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "776",
+      "name": "音流",
+      "url": "https://music.aqzscn.cn/",
+      "parentId": "580",
+      "index": 5,
+      "dateAdded": 1728432297192,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "586",
+      "name": "下载",
+      "url": null,
+      "parentId": "547",
+      "index": 28,
+      "dateAdded": 1691651620980,
+      "dateGroupModified": 1743661663238,
+      "isFolder": true
+    },
+    {
+      "id": "587",
+      "name": "微信视频下载",
+      "url": "https://www.vso-software.fr/products/downloader/",
+      "parentId": "586",
+      "index": 0,
+      "dateAdded": 1691651594028,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "588",
+      "name": "Bilidown",
+      "url": "http://zhouql.vip/bilibili/pc/",
+      "parentId": "586",
+      "index": 1,
+      "dateAdded": 1693277603344,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "589",
+      "name": "抖音下载",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "parentId": "586",
+      "index": 2,
+      "dateAdded": 1693716980446,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "590",
+      "name": "抖音录制",
+      "url": "https://github.com/LyzenX/DouyinLiveRecorder/tree/v20230418",
+      "parentId": "586",
+      "index": 3,
+      "dateAdded": 1693832082325,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "591",
+      "name": "olive - Live Stream Recorder",
+      "url": "https://go-olive.github.io/",
+      "parentId": "586",
+      "index": 4,
+      "dateAdded": 1693873578968,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "592",
+      "name": "抖音录制",
+      "url": "https://biliup.github.io/biliup/",
+      "parentId": "586",
+      "index": 5,
+      "dateAdded": 1693888266669,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "593",
+      "name": "Gopeed",
+      "url": "https://github.com/GopeedLab/gopeed",
+      "parentId": "586",
+      "index": 6,
+      "dateAdded": 1711327128302,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "740",
+      "name": "ImFile",
+      "url": "https://imfile.io/",
+      "parentId": "586",
+      "index": 7,
+      "dateAdded": 1727163677320,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1197",
+      "name": "下载番茄小说",
+      "url": "https://github.com/ying-ck/fanqienovel-downloader/tree/v1.1.19",
+      "parentId": "586",
+      "index": 8,
+      "dateAdded": 1738895492787,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1420",
+      "name": "小说下载",
+      "url": "https://github.com/freeok/so-novel/releases",
+      "parentId": "586",
+      "index": 9,
+      "dateAdded": 1743657725169,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "594",
+      "name": "Global Potplayer",
+      "url": "http://potplayer.tv/?lang=zh_CN",
+      "parentId": "547",
+      "index": 29,
+      "dateAdded": 1694308565798,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "595",
+      "name": "抓包",
+      "url": null,
+      "parentId": "547",
+      "index": 30,
+      "dateAdded": 1694322693296,
+      "dateGroupModified": 1694322693296,
+      "isFolder": true
+    },
+    {
+      "id": "596",
+      "name": "Reqable",
+      "url": "https://reqable.com/en-US/download",
+      "parentId": "595",
+      "index": 0,
+      "dateAdded": 1694322669488,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "597",
+      "name": "便携软件网站",
+      "url": "https://portableapps.com/download",
+      "parentId": "547",
+      "index": 31,
+      "dateAdded": 1695274197132,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "598",
+      "name": "Tabby",
+      "url": "https://github.com/Eugeny/tabby/tree/v1.0.201",
+      "parentId": "547",
+      "index": 32,
+      "dateAdded": 1698200178066,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "599",
+      "name": "PDFgear - 将易于使用的PDF软件带给大众",
+      "url": "https://www.pdfgear.com/zh/",
+      "parentId": "547",
+      "index": 33,
+      "dateAdded": 1698409845816,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "600",
+      "name": "Office Tool Plus 官方网站 - 一键部署 Office",
+      "url": "https://otp.landian.vip/zh-cn/",
+      "parentId": "547",
+      "index": 34,
+      "dateAdded": 1699316740086,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "601",
+      "name": "everything",
+      "url": "https://www.voidtools.com/zh-cn/",
+      "parentId": "547",
+      "index": 35,
+      "dateAdded": 1700032201417,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "602",
+      "name": "rubick - 开源工具箱",
+      "url": "https://rubick.vip/",
+      "parentId": "547",
+      "index": 36,
+      "dateAdded": 1700697364981,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "603",
+      "name": "Xterminal - 更好用的开发工具，但不止于(SSH/控制台/More)",
+      "url": "https://www.terminal.icu/",
+      "parentId": "547",
+      "index": 37,
+      "dateAdded": 1701133270367,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "604",
+      "name": "Android-x86 download latest version",
+      "url": "https://www.fosshub.com/Android-x86.html",
+      "parentId": "547",
+      "index": 38,
+      "dateAdded": 1702006080770,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "605",
+      "name": "Downloads - Code Sector",
+      "url": "https://www.codesector.com/downloads",
+      "parentId": "547",
+      "index": 39,
+      "dateAdded": 1705718831301,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "606",
+      "name": "普听音乐",
+      "url": "https://music.codepublic.top/",
+      "parentId": "547",
+      "index": 40,
+      "dateAdded": 1706622190506,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "607",
+      "name": "Global Potplayer",
+      "url": "https://potplayer.daum.net/",
+      "parentId": "547",
+      "index": 41,
+      "dateAdded": 1708171084874,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "609",
+      "name": "Glary Utilities | Glarysoft",
+      "url": "https://www.glarysoft.com/",
+      "parentId": "547",
+      "index": 42,
+      "dateAdded": 1711935153772,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "610",
+      "name": "4K Video Downloader｜适用于PC，macOS和Linux系统的免费视频下载器 | 4K Download",
+      "url": "https://www.4kdownload.com/zh-cn/products/videodownloader-1",
+      "parentId": "547",
+      "index": 43,
+      "dateAdded": 1712626037812,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "611",
+      "name": "Y2Mate DRM下載器 - 您最好的離線觀看視頻伴侶",
+      "url": "https://y2mate.ch/zh.html",
+      "parentId": "547",
+      "index": 44,
+      "dateAdded": 1712626063453,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "612",
+      "name": "Free YouTube Video Downloader - Download video from YouTube with YouTube Downloader",
+      "url": "https://www.freemake.com/free_video_downloader1/",
+      "parentId": "547",
+      "index": 45,
+      "dateAdded": 1712626078235,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "613",
+      "name": "鼠标连点精灵",
+      "url": "http://www.ishubiao.cn/",
+      "parentId": "547",
+      "index": 46,
+      "dateAdded": 1689465692523,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "614",
+      "name": "鼠标连点精灵",
+      "url": "https://mouseclickelf.com/#",
+      "parentId": "547",
+      "index": 47,
+      "dateAdded": 1689508824088,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "615",
+      "name": "Winxvideo AI - 影片和圖片增強器。提升、穩定、轉換、編輯、錄製視頻",
+      "url": "https://www.winxdvd.com/zh/winxvideo-ai/?ttsoft=wxv-2.0-about-gvversion-wxvgvsos",
+      "parentId": "547",
+      "index": 48,
+      "dateAdded": 1713364248844,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "616",
+      "name": "CPU-Z",
+      "url": "https://cpuid.com/downloads/cpu-z/cpu-z_2.09-cn.zip",
+      "parentId": "547",
+      "index": 49,
+      "dateAdded": 1716257657822,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "617",
+      "name": "HDiNFO",
+      "url": "https://www.hwinfo.com/download/",
+      "parentId": "547",
+      "index": 50,
+      "dateAdded": 1716257757927,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "618",
+      "name": "AIDA64",
+      "url": "https://www.aida64.com/downloads",
+      "parentId": "547",
+      "index": 51,
+      "dateAdded": 1716258260983,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "619",
+      "name": "GPU-Z",
+      "url": "https://www.techpowerup.com/download/techpowerup-gpu-z/",
+      "parentId": "547",
+      "index": 52,
+      "dateAdded": 1716258762369,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "621",
+      "name": "RaiDrive",
+      "url": "https://www.raidrive.com/",
+      "parentId": "547",
+      "index": 53,
+      "dateAdded": 1687486767411,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "622",
+      "name": "局域网扫描",
+      "url": "https://www.advanced-ip-scanner.com/cn/",
+      "parentId": "547",
+      "index": 54,
+      "dateAdded": 1703646640365,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "623",
+      "name": "IP切换",
+      "url": "https://www.netsetman.com/en/freeware",
+      "parentId": "547",
+      "index": 55,
+      "dateAdded": 1722070431901,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "674",
+      "name": "VMware",
+      "url": "https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Personal%20Use%20(Windows)&release=17.5.2&os=&servicePk=520448&language=EN",
+      "parentId": "547",
+      "index": 56,
+      "dateAdded": 1725333608007,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "709",
+      "name": "重复图片查找",
+      "url": "https://www.duplicate-finder.com/photo.html",
+      "parentId": "547",
+      "index": 57,
+      "dateAdded": 1726036333469,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "739",
+      "name": "微信 - 留痕",
+      "url": "https://memotrace.cn/#price",
+      "parentId": "547",
+      "index": 58,
+      "dateAdded": 1727162443069,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "761",
+      "name": "NETworkManager",
+      "url": "https://borntoberoot.net/NETworkManager/",
+      "parentId": "547",
+      "index": 59,
+      "dateAdded": 1728126550501,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1018",
+      "name": "Wave Terminal",
+      "url": "https://www.waveterm.dev/",
+      "parentId": "547",
+      "index": 60,
+      "dateAdded": 1734760131329,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1295",
+      "name": "言庭资源分享",
+      "url": "https://yant.top/",
+      "parentId": "547",
+      "index": 61,
+      "dateAdded": 1741001791961,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1335",
+      "name": "teracopy",
+      "url": "https://codesector.com/downloads",
+      "parentId": "547",
+      "index": 62,
+      "dateAdded": 1741583542765,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1371",
+      "name": "netsetman - IP管理软件",
+      "url": "https://www.netsetman.com/zh/freeware",
+      "parentId": "547",
+      "index": 63,
+      "dateAdded": 1742295693187,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1422",
+      "name": "游戏运行库修复",
+      "url": "https://gamepp.com/",
+      "parentId": "547",
+      "index": 64,
+      "dateAdded": 1743663985736,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1503",
+      "name": "指纹浏览器",
+      "url": "https://virtualbrowser.cc/",
+      "parentId": "547",
+      "index": 65,
+      "dateAdded": 1747009267618,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1615",
+      "name": "notepads - 记事本",
+      "url": "https://github.com/0x7c13/Notepads",
+      "parentId": "547",
+      "index": 66,
+      "dateAdded": 1749081425191,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1635",
+      "name": "GRLPackage - DLL修复工具",
+      "url": "https://www.mefcl.com/grlpackage.html",
+      "parentId": "547",
+      "index": 67,
+      "dateAdded": 1749513955782,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1732",
+      "name": "电影天堂app_电影天堂安卓版_电影天堂播放器官网下载",
+      "url": "https://www.dytt8899.com/app/",
+      "parentId": "547",
+      "index": 68,
+      "dateAdded": 1750840745968,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1779",
+      "name": "IP多配置工具",
+      "url": "https://www.netsetman.com/zh/freeware#download",
+      "parentId": "547",
+      "index": 69,
+      "dateAdded": 1752209811848,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "632",
+      "name": "下载工具",
+      "url": null,
+      "parentId": "522",
+      "index": 4,
+      "dateAdded": 1712898308568,
+      "dateGroupModified": 1728475996111,
+      "isFolder": true
+    },
+    {
+      "id": "633",
+      "name": "下载 - 视频 - TiQu",
+      "url": "https://tiqu.cc/",
+      "parentId": "632",
+      "index": 0,
+      "dateAdded": 1714107098030,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "634",
+      "name": "下载 - 视频 - Lux",
+      "url": "https://github.com/iawia002/lux",
+      "parentId": "632",
+      "index": 1,
+      "dateAdded": 1718236277483,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "635",
+      "name": "下载 - 视频 - cobalt",
+      "url": "https://cobalt.tools/",
+      "parentId": "632",
+      "index": 2,
+      "dateAdded": 1722212766041,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "636",
+      "name": "下载 - 视频 - VideoFk",
+      "url": "https://www.videofk.com/zh-cn/",
+      "parentId": "632",
+      "index": 3,
+      "dateAdded": 1722226134451,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "637",
+      "name": "下载 - 视频",
+      "url": "https://api.spapi.cn/",
+      "parentId": "632",
+      "index": 4,
+      "dateAdded": 1712898883972,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "638",
+      "name": "下载 -  Instagram",
+      "url": "https://sssinstagram.com/zh",
+      "parentId": "632",
+      "index": 5,
+      "dateAdded": 1712898840402,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "639",
+      "name": "下载 - instagram",
+      "url": "https://www.inscarry.com/#purches-area",
+      "parentId": "632",
+      "index": 6,
+      "dateAdded": 1712898883972,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "640",
+      "name": "下载 - youtube",
+      "url": "https://ripyoutube.com/zh-cn-1",
+      "parentId": "632",
+      "index": 7,
+      "dateAdded": 1712898840402,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "641",
+      "name": "下载 - youtube- 优先",
+      "url": "https://snapsave.io/zh-cn22",
+      "parentId": "632",
+      "index": 8,
+      "dateAdded": 1713312905967,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "642",
+      "name": "下载工具 - NDM",
+      "url": "https://www.neatdownloadmanager.com/index.php/en/",
+      "parentId": "632",
+      "index": 9,
+      "dateAdded": 1712898883972,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "643",
+      "name": "下载 -百度网盘",
+      "url": "https://www.94speed.com/",
+      "parentId": "632",
+      "index": 10,
+      "dateAdded": 1712898883972,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "645",
+      "name": "下载 - 百度文库",
+      "url": "https://lexueduosi.com/#/",
+      "parentId": "632",
+      "index": 11,
+      "dateAdded": 1712898883973,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "646",
+      "name": "下载 - M3U8",
+      "url": "https://tools.thatwind.com/tool/m3u8downloader",
+      "parentId": "632",
+      "index": 12,
+      "dateAdded": 1712899435139,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "647",
+      "name": "3个方法解决百度网盘限速",
+      "url": "https://www.runningcheese.com/baiduyun",
+      "parentId": "632",
+      "index": 13,
+      "dateAdded": 1712900086326,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "760",
+      "name": "AB Download Manager",
+      "url": "https://abdownloadmanager.com/",
+      "parentId": "632",
+      "index": 14,
+      "dateAdded": 1728125990837,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "779",
+      "name": "bilibili哔哩哔哩下载",
+      "url": "https://csser.top/bilibili/changelog/?v=3.0.2",
+      "parentId": "632",
+      "index": 15,
+      "dateAdded": 1728475710262,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "38",
+      "name": "素材",
+      "url": null,
+      "parentId": "522",
+      "index": 5,
+      "dateAdded": 1709784897307,
+      "dateGroupModified": 1710828469603,
+      "isFolder": true
+    },
+    {
+      "id": "39",
+      "name": "彼岸壁纸",
+      "url": "http://www.netbian.com/",
+      "parentId": "38",
+      "index": 0,
+      "dateAdded": 1709784858721,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "40",
+      "name": "4K壁纸",
+      "url": "https://pic.netbian.com/",
+      "parentId": "38",
+      "index": 1,
+      "dateAdded": 1709784982717,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "41",
+      "name": "源码",
+      "url": "https://www.xuezuoweb.com/",
+      "parentId": "38",
+      "index": 2,
+      "dateAdded": 1710299368716,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "42",
+      "name": "4K专区 - 电脑壁纸",
+      "url": "https://www.umsbox.com/bz/",
+      "parentId": "38",
+      "index": 3,
+      "dateAdded": 1710828469603,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "624",
+      "name": "系统镜像站",
+      "url": null,
+      "parentId": "522",
+      "index": 6,
+      "dateAdded": 1698968893304,
+      "dateGroupModified": 1722997561784,
+      "isFolder": true
+    },
+    {
+      "id": "625",
+      "name": "下载 Tiny Core Linux",
+      "url": "http://www.tinycorelinux.net/downloads.html",
+      "parentId": "624",
+      "index": 0,
+      "dateAdded": 1707824541338,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "626",
+      "name": "xitongku",
+      "url": "https://www.xitongku.com/",
+      "parentId": "624",
+      "index": 1,
+      "dateAdded": 1698968794538,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "627",
+      "name": "MSDN, 我告诉你",
+      "url": "https://msdn.itellyou.cn/?ang=2h-cn",
+      "parentId": "624",
+      "index": 2,
+      "dateAdded": 1698969104595,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "628",
+      "name": "MSDN - 山己几子木",
+      "url": "https://msdn.sjjzm.com/",
+      "parentId": "624",
+      "index": 3,
+      "dateAdded": 1698969164017,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "629",
+      "name": "HelloWindows.cn",
+      "url": "https://hellowindows.cn/",
+      "parentId": "624",
+      "index": 4,
+      "dateAdded": 1661184685531,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "630",
+      "name": "ITELLYOU,我告诉你",
+      "url": "https://www.aomao.com/download",
+      "parentId": "624",
+      "index": 5,
+      "dateAdded": 1698969247829,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "631",
+      "name": "Linux Mint",
+      "url": "https://linuxmint.com/",
+      "parentId": "624",
+      "index": 6,
+      "dateAdded": 1722997561784,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "11",
+      "name": "影音",
+      "url": null,
+      "parentId": "522",
+      "index": 7,
+      "dateAdded": 1646129670198,
+      "dateGroupModified": 1747534078054,
+      "isFolder": true
+    },
+    {
+      "id": "24",
+      "name": "TVBAnywhere 北美官方網站",
+      "url": "https://www.tvbanywherena.com/cantonese",
+      "parentId": "11",
+      "index": 0,
+      "dateAdded": 1717983888023,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "25",
+      "name": "myTV SUPER",
+      "url": "https://www.mytvsuper.com/tc/home/",
+      "parentId": "11",
+      "index": 1,
+      "dateAdded": 1717990375082,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "655",
+      "name": "翡翠台",
+      "url": "https://down.iptv333.com/down.php",
+      "parentId": "11",
+      "index": 2,
+      "dateAdded": 1712241759654,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "657",
+      "name": "m3u8在线播放器",
+      "url": "https://m3u8-player.com/",
+      "parentId": "11",
+      "index": 3,
+      "dateAdded": 1707529962992,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "648",
+      "name": "爱优腾视频转换工具",
+      "url": "https://shimo.im/docs/Ee32MezM4YIB2bA2/read",
+      "parentId": "11",
+      "index": 4,
+      "dateAdded": 1706264124315,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1300",
+      "name": "办文绿软",
+      "url": "https://www.5071211.com/",
+      "parentId": "522",
+      "index": 8,
+      "dateAdded": 1741050760844,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1508",
+      "name": "Free AI Writing, PDF, Image, and other Online Tools - TinyWow",
+      "url": "https://tinywow.com/",
+      "parentId": "522",
+      "index": 9,
+      "dateAdded": 1747055209984,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "669",
+      "name": "Chrome 应用商店",
+      "url": "https://chromewebstore.google.com/?pli=1",
+      "parentId": "522",
+      "index": 10,
+      "dateAdded": 1714117513958,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1629",
+      "name": "Beginners Guide • freemediaheckyeah",
+      "url": "https://fmhy.net/beginners-guide",
+      "parentId": "522",
+      "index": 11,
+      "dateAdded": 1749126865755,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1800",
+      "name": "figma",
+      "url": "https://www.figma.com/",
+      "parentId": "522",
+      "index": 12,
+      "dateAdded": 1752672460095,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1904",
+      "name": "朱雀AI检测助手",
+      "url": "https://matrix.tencent.com/ai-detect/",
+      "parentId": "522",
+      "index": 13,
+      "dateAdded": 1755160545508,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1691",
+      "name": "大佬们",
+      "url": null,
+      "parentId": "1",
+      "index": 10,
+      "dateAdded": 1750735191046,
+      "dateGroupModified": 1754910374770,
+      "isFolder": true
+    },
+    {
+      "id": "1692",
+      "name": "IT技术之家",
+      "url": "https://www.ittel.cn/",
+      "parentId": "1691",
+      "index": 0,
+      "dateAdded": 1750735205291,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1693",
+      "name": "Biliup社区",
+      "url": "https://biliup.me/",
+      "parentId": "1691",
+      "index": 1,
+      "dateAdded": 1750735234783,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1696",
+      "name": "‌‍﻿​‬​​​‌​​‬‍​﻿​‍​​​‬﻿‬​​​‬‌‌‍‌‬﻿​﻿​‌​﻿﻿‬‬​⁠​‍‍⁠﻿⁠非哥丨黑K技工具箱",
+      "url": "https://vvtld748t6.feishu.cn/docx/doxcn7UTG5nXonGV8RBXgmmWl4g",
+      "parentId": "1691",
+      "index": 2,
+      "dateAdded": 1750735336723,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1694",
+      "name": "果核剥壳",
+      "url": "https://www.ghxi.com/",
+      "parentId": "1691",
+      "index": 3,
+      "dateAdded": 1750735279266,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1695",
+      "name": "张洪Heo",
+      "url": "https://blog.zhheo.com/",
+      "parentId": "1691",
+      "index": 4,
+      "dateAdded": 1750735300730,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1697",
+      "name": "Jay的部落",
+      "url": "https://www.jayclub.cc/",
+      "parentId": "1691",
+      "index": 5,
+      "dateAdded": 1750735383850,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1698",
+      "name": "隔壁网",
+      "url": "https://gebi1.com/",
+      "parentId": "1691",
+      "index": 6,
+      "dateAdded": 1750735406217,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1699",
+      "name": "恩山无线论坛",
+      "url": "https://www.right.com.cn/forum/forum.php",
+      "parentId": "1691",
+      "index": 7,
+      "dateAdded": 1750735434853,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1700",
+      "name": "缙哥哥",
+      "url": "https://www.dujin.org/",
+      "parentId": "1691",
+      "index": 8,
+      "dateAdded": 1750735453831,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1701",
+      "name": "我不是矿神",
+      "url": "https://imnks.com/",
+      "parentId": "1691",
+      "index": 9,
+      "dateAdded": 1750735488932,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1702",
+      "name": "杨公子的博客",
+      "url": "https://www.hiir.cn:12580/",
+      "parentId": "1691",
+      "index": 10,
+      "dateAdded": 1750735553768,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1703",
+      "name": "CM喂饭干货满满",
+      "url": "https://blog.cmliussss.com/",
+      "parentId": "1691",
+      "index": 11,
+      "dateAdded": 1750735623533,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1704",
+      "name": "不良林",
+      "url": "https://bulianglin.com/",
+      "parentId": "1691",
+      "index": 12,
+      "dateAdded": 1750735650628,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1705",
+      "name": "520解说",
+      "url": "https://lucyhuafang.blogspot.com/",
+      "parentId": "1691",
+      "index": 13,
+      "dateAdded": 1750735666734,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1706",
+      "name": "科技lion官方网站 - KEJILION",
+      "url": "https://kejilion.pro/",
+      "parentId": "1691",
+      "index": 14,
+      "dateAdded": 1750735678153,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1707",
+      "name": "CloChat",
+      "url": "https://clochat.com/",
+      "parentId": "1691",
+      "index": 15,
+      "dateAdded": 1750735712540,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1712",
+      "name": "nodeseek",
+      "url": "https://www.nodeseek.com/",
+      "parentId": "1691",
+      "index": 16,
+      "dateAdded": 1750736712941,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1713",
+      "name": "NodeLoc",
+      "url": "https://nodeloc.cc/",
+      "parentId": "1691",
+      "index": 17,
+      "dateAdded": 1750736741909,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1714",
+      "name": "P3TERX ZONE",
+      "url": "https://p3terx.com/",
+      "parentId": "1691",
+      "index": 18,
+      "dateAdded": 1750736768637,
+      "dateGroupModified": null,
+      "isFolder": false
+    },
+    {
+      "id": "1897",
+      "name": "学生免费资源 - 专属学生优惠与免费福利",
+      "url": "https://edu.52it.de/",
+      "parentId": "1691",
+      "index": 19,
+      "dateAdded": 1754909788799,
+      "dateGroupModified": null,
+      "isFolder": false
+    }
+  ],
+  "timestamp": "2025-08-22T14:12:31.098Z",
+  "count": 678
+}

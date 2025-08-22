@@ -258,55 +258,55 @@ class BookmarkData {
 
     // 获取根级别的书签
     getRootBookmarks() {
-        return this.bookmarks;
+        return this.bookmarks.filter(item => item.parentId === '0' || item.parentId === '1');
     }
 
     // 根据ID查找书签
     findBookmarkById(id) {
-        const findInArray = (items) => {
-            for (const item of items) {
-                if (item.id === id) {
-                    return item;
-                }
-                if (item.children) {
-                    const found = findInArray(item.children);
-                    if (found) return found;
-                }
-            }
-            return null;
-        };
-        return findInArray(this.bookmarks);
+        return this.bookmarks.find(item => item.id === id) || null;
     }
 
     // 获取书签的子项
     getChildren(parentId) {
         if (parentId === '0') {
-            return this.bookmarks;
+            // 根目录：返回parentId为'0'或'1'的项目
+            return this.bookmarks.filter(item => item.parentId === '0' || item.parentId === '1');
         }
-        const parent = this.findBookmarkById(parentId);
-        return parent ? parent.children || [] : [];
+        // 返回指定父级ID的所有子项
+        return this.bookmarks.filter(item => item.parentId === parentId);
     }
 
     // 搜索书签
     searchBookmarks(query) {
         const results = [];
-        const searchInArray = (items, path = []) => {
-            for (const item of items) {
-                const currentPath = [...path, item.name];
-                if (item.name.toLowerCase().includes(query.toLowerCase()) ||
-                    (item.url && item.url.toLowerCase().includes(query.toLowerCase()))) {
-                    results.push({
-                        ...item,
-                        path: currentPath
-                    });
-                }
-                if (item.children) {
-                    searchInArray(item.children, currentPath);
-                }
+        const queryLower = query.toLowerCase();
+        
+        for (const item of this.bookmarks) {
+            if (item.name.toLowerCase().includes(queryLower) ||
+                (item.url && item.url.toLowerCase().includes(queryLower))) {
+                
+                // 构建路径
+                const path = this.buildPath(item.id);
+                results.push({
+                    ...item,
+                    path: path
+                });
             }
-        };
-        searchInArray(this.bookmarks);
+        }
         return results;
+    }
+
+    // 构建书签的完整路径
+    buildPath(itemId) {
+        const path = [];
+        let currentItem = this.findBookmarkById(itemId);
+        
+        while (currentItem && currentItem.parentId !== '0') {
+            path.unshift(currentItem.name);
+            currentItem = this.findBookmarkById(currentItem.parentId);
+        }
+        
+        return path;
     }
 
     // 获取统计信息
