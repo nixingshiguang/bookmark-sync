@@ -10,7 +10,7 @@ class BookmarkData {
     async init() {
         try {
             // 从API端点加载数据
-            const response = await fetch('/api/update');
+            const response = await fetch('/api/data');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
