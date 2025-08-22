@@ -1,0 +1,62 @@
+/* 默认主题 - 浅色模式 */
+:root {
+    /* 基础颜色 */
+    --primary-color: #007bff;
+    --primary-text: #ffffff;
+    --secondary-color: #6c757d;
+    
+    /* 背景颜色 */
+    --bg-color: #ffffff;
+    --card-bg: #ffffff;
+    --sidebar-bg: #f8f9fa;
+    --toolbar-bg: #ffffff;
+    --status-bar-bg: #f8f9fa;
+    --input-bg: #ffffff;
+    
+    /* 文字颜色 */
+    --text-color: #212529;
+    --text-secondary: #6c757d;
+    
+    /* 边框颜色 */
+    --border-color: #dee2e6;
+    
+    /* 交互颜色 */
+    --hover-bg: #f8f9fa;
+    --active-bg: #e9ecef;
+    
+    /* 图标颜色 */
+    --icon-color: #6c757d;
+    --folder-color: #ffc107;
+    --bookmark-color: #007bff;
+    
+    /* 滚动条颜色 */
+    --scrollbar-track: #f1f3f4;
+    --scrollbar-thumb: #c1c1c1;
+    --scrollbar-thumb-hover: #a8a8a8;
+}
+
+/* 深色模式适配 */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #1a1a1a;
+        --card-bg: #2d2d2d;
+        --sidebar-bg: #252525;
+        --toolbar-bg: #2d2d2d;
+        --status-bar-bg: #252525;
+        --input-bg: #2d2d2d;
+        
+        --text-color: #ffffff;
+        --text-secondary: #b3b3b3;
+        
+        --border-color: #404040;
+        
+        --hover-bg: #404040;
+        --active-bg: #4a4a4a;
+        
+        --icon-color: #b3b3b3;
+        
+        --scrollbar-track: #2d2d2d;
+        --scrollbar-thumb: #555555;
+        --scrollbar-thumb-hover: #666666;
+    }
+}

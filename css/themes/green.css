@@ -1,0 +1,36 @@
+/* 绿色主题 */
+:root {
+    /* 基础颜色 */
+    --primary-color: #388e3c;
+    --primary-text: #ffffff;
+    --secondary-color: #424242;
+    
+    /* 背景颜色 */
+    --bg-color: #f1f8e9;
+    --card-bg: #ffffff;
+    --sidebar-bg: #e8f5e8;
+    --toolbar-bg: #ffffff;
+    --status-bar-bg: #e8f5e8;
+    --input-bg: #ffffff;
+    
+    /* 文字颜色 */
+    --text-color: #1b5e20;
+    --text-secondary: #4caf50;
+    
+    /* 边框颜色 */
+    --border-color: #c8e6c9;
+    
+    /* 交互颜色 */
+    --hover-bg: #e8f5e8;
+    --active-bg: #c8e6c9;
+    
+    /* 图标颜色 */
+    --icon-color: #4caf50;
+    --folder-color: #ff9800;
+    --bookmark-color: #388e3c;
+    
+    /* 滚动条颜色 */
+    --scrollbar-track: #e8f5e8;
+    --scrollbar-thumb: #81c784;
+    --scrollbar-thumb-hover: #66bb6a;
+}
