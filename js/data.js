@@ -249,7 +249,7 @@ class BookmarkData {
     // 检查API连接状态
     async checkApiStatus() {
         try {
-            const response = await fetch('/api/update', { method: 'HEAD' });
+            const response = await fetch('/api/data', { method: 'HEAD' });
             return response.ok;
         } catch (error) {
             return false;
