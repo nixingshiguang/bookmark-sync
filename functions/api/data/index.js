@@ -24,7 +24,7 @@ export async function onRequest(context) {
     }
 
     // 返回书签数据
-    return new Response(JSON.stringify(bookmarkData), {
+    return new Response(bookmarkData, {
         status: 200,
         headers
     });
