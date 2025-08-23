@@ -46,8 +46,71 @@ class BookmarkApp {
         // 初始化书签渲染器
         window.bookmarkRenderer = new BookmarkRenderer();
         
+        // 初始化快速访问
+        this.initQuickAccess();
+        
         // 加载当前文件夹
         window.navigationManager.loadCurrentFolder();
+    }
+
+    // 初始化快速访问
+    initQuickAccess() {
+        const quickAccessContainer = document.getElementById('quick-access');
+        const rootFolders = window.bookmarkData.getRootBookmarks().filter(item => item.isFolder);
+        
+        // 清空现有内容
+        quickAccessContainer.innerHTML = '';
+        
+        // 为每个根级别文件夹创建快速访问项
+        rootFolders.forEach(folder => {
+            const quickItem = document.createElement('div');
+            quickItem.className = 'quick-item';
+            quickItem.dataset.folderId = folder.id;
+            
+            // 根据文件夹名称选择合适的图标
+            const icon = this.getFolderIcon(folder.name);
+            
+            quickItem.innerHTML = `
+                <i class="${icon}"></i>
+                <span>${folder.name}</span>
+            `;
+            
+            // 添加点击事件
+            quickItem.addEventListener('click', () => {
+                window.navigationManager.navigateTo(folder.id, folder.name);
+            });
+            
+            quickAccessContainer.appendChild(quickItem);
+        });
+    }
+
+    // 根据文件夹名称获取合适的图标
+    getFolderIcon(name) {
+        const iconMap = {
+            'AI': 'fas fa-robot',
+            'A.I.O': 'fas fa-cube',
+            '开发': 'fas fa-code',
+            '工具': 'fas fa-tools',
+            '网盘': 'fas fa-cloud',
+            '天天向上': 'fas fa-chart-line',
+            '大佬们': 'fas fa-users',
+            '工作': 'fas fa-briefcase',
+            '个人': 'fas fa-user',
+            '新闻': 'fas fa-newspaper',
+            '学习': 'fas fa-graduation-cap',
+            '娱乐': 'fas fa-gamepad',
+            '购物': 'fas fa-shopping-cart',
+            '社交': 'fas fa-comments'
+        };
+        
+        // 查找匹配的图标，如果没有找到则使用默认文件夹图标
+        for (const [keyword, icon] of Object.entries(iconMap)) {
+            if (name.includes(keyword)) {
+                return icon;
+            }
+        }
+        
+        return 'fas fa-folder';
     }
 
     bindEvents() {

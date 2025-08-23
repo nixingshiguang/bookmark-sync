@@ -34,13 +34,7 @@ class NavigationManager {
             this.expandSidebar();
         });
 
-        // 快速访问项目
-        document.querySelectorAll('.quick-item').forEach(item => {
-            item.addEventListener('click', () => {
-                const category = item.dataset.category;
-                this.navigateToCategory(category);
-            });
-        });
+        // 快速访问项目的事件绑定现在在app.js的initQuickAccess方法中处理
     }
 
     // 导航到指定路径
@@ -93,23 +87,6 @@ class NavigationManager {
         this.updateBackButton();
     }
 
-    // 导航到分类
-    navigateToCategory(category) {
-        const categoryMap = {
-            '工作': '1',
-            '个人': '2',
-            '新闻': '3'
-        };
-
-        const id = categoryMap[category];
-        if (id) {
-            const bookmark = window.bookmarkData.findBookmarkById(id);
-            if (bookmark) {
-                this.goHome();
-                this.navigateTo(id, bookmark.name);
-            }
-        }
-    }
 
     // 更新面包屑导航
     updateBreadcrumb() {
