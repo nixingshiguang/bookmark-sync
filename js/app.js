@@ -1,7 +1,7 @@
 // 主应用程序
 class BookmarkApp {
     constructor() {
-        this.viewMode = 'grid'; // grid 或 list
+        this.viewMode = 'list'; // grid 或 list
         this.sortBy = 'name'; // name, date, type
         this.sortOrder = 'asc'; // asc 或 desc
         this.init();
