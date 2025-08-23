@@ -407,6 +407,8 @@ body {
     align-items: center;
     text-align: center;
     min-height: 120px;
+    max-height: 180px;
+    justify-content: center;
 }
 
 .grid-view .bookmark-icon {

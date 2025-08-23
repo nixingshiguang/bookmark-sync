@@ -311,7 +311,44 @@ class BookmarkData {
 
     // 获取统计信息
     getStats() {
-        return this.stats;
+        // 如果有预设的stats就使用，否则动态计算
+        if (this.stats && Object.keys(this.stats).length > 0) {
+            return this.stats;
+        }
+        
+        // 动态计算统计信息
+        const totalBookmarks = this.bookmarks.filter(item => !item.isFolder).length;
+        const totalFolders = this.bookmarks.filter(item => item.isFolder).length;
+        
+        // 计算最大深度
+        let maxDepth = 1;
+        const calculateDepth = (parentId, currentDepth = 1) => {
+            const children = this.bookmarks.filter(item => item.parentId === parentId);
+            if (children.length === 0) return currentDepth;
+            
+            let depth = currentDepth;
+            children.forEach(child => {
+                if (child.isFolder) {
+                    const childDepth = calculateDepth(child.id, currentDepth + 1);
+                    depth = Math.max(depth, childDepth);
+                }
+            });
+            return depth;
+        };
+        
+        // 从根级别开始计算深度
+        const rootFolders = this.bookmarks.filter(item => item.isFolder && (item.parentId === '0' || item.parentId === '1'));
+        rootFolders.forEach(folder => {
+            const depth = calculateDepth(folder.id, 2);
+            maxDepth = Math.max(maxDepth, depth);
+        });
+        
+        return {
+            totalBookmarks: totalBookmarks,
+            totalFolders: totalFolders,
+            maxDepth: maxDepth,
+            lastSync: new Date().toISOString()
+        };
     }
 
     // 获取设置
