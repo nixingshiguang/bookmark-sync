@@ -347,7 +347,7 @@ class BookmarkData {
             totalBookmarks: totalBookmarks,
             totalFolders: totalFolders,
             maxDepth: maxDepth,
-            lastSync: new Date().toISOString()
+            lastSync: this.stats.lastSync || data.timestamp || new Date().toISOString()
         };
     }
 
