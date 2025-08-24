@@ -3,9 +3,8 @@ export async function onRequest(context) {
 
     const PASSWORD = env.PASSWORD;
     if (PASSWORD) {
-        console.log(`检测到密码: ${PASSWORD}`);
-        let AuthPassword = request.query.get('password');
-        AuthPassword = decodeURIComponent(AuthPassword);
+        const url = new URL(request.url);
+        const AuthPassword = url.searchParams.get('password');
         if (AuthPassword !== PASSWORD) {
             return new Response(JSON.stringify({ "error": "密码错误" }), {
                 status: 401,
