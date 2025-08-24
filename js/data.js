@@ -4,6 +4,7 @@ class BookmarkData {
         this.bookmarks = [];
         this.settings = {};
         this.stats = {};
+        this.timestamp = null;
         this.init();
     }
 
@@ -19,6 +20,7 @@ class BookmarkData {
             this.bookmarks = data.bookmarks || [];
             this.settings = data.settings || {};
             this.stats = data.stats || {};
+            this.timestamp = data.timestamp || null;
         } catch (error) {
             console.error('加载书签数据失败:', error);
             // 如果API加载失败，使用默认数据
@@ -237,6 +239,7 @@ class BookmarkData {
         this.bookmarks = data.bookmarks;
         this.settings = data.settings;
         this.stats = data.stats;
+        this.timestamp = data.timestamp || null;
     }
 
     // 刷新数据
@@ -347,7 +350,7 @@ class BookmarkData {
             totalBookmarks: totalBookmarks,
             totalFolders: totalFolders,
             maxDepth: maxDepth,
-            lastSync: this.stats.lastSync || data.timestamp || new Date().toISOString()
+            lastSync: this.timestamp || null
         };
     }
 
