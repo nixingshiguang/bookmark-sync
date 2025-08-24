@@ -11,6 +11,9 @@ class ThemeManager {
         const savedTheme = localStorage.getItem('bookmark-theme');
         if (savedTheme) {
             this.setTheme(savedTheme);
+        } else if (this.currentTheme === 'transparent') {
+            // 如果默认是透明主题，确保添加背景图
+            this.addBackgroundImage();
         }
 
         // 绑定主题切换事件
@@ -56,10 +59,35 @@ class ThemeManager {
             option.classList.toggle('active', option.dataset.theme === themeName);
         });
 
+        // 处理透明主题的特殊类名
+        document.body.classList.remove('theme-transparent');
+        if (themeName === 'transparent') {
+            document.body.classList.add('theme-transparent');
+            this.addBackgroundImage();
+        } else {
+            this.removeBackgroundImage();
+        }
+
         // 触发主题变更事件
         document.dispatchEvent(new CustomEvent('themeChanged', {
             detail: { theme: themeName }
         }));
+    }
+
+    // 显示背景图元素
+    addBackgroundImage() {
+        const bgContainer = document.getElementById('background-container');
+        if (bgContainer) {
+            bgContainer.style.display = 'block';
+        }
+    }
+    
+    // 隐藏背景图元素
+    removeBackgroundImage() {
+        const bgContainer = document.getElementById('background-container');
+        if (bgContainer) {
+            bgContainer.style.display = 'none';
+        }
     }
 
     getCurrentTheme() {
