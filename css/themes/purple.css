@@ -1,0 +1,64 @@
+/* 紫色主题 */
+:root {
+    /* 基础颜色 */
+    --primary-color: #7b1fa2;
+    --primary-text: #ffffff;
+    --secondary-color: #512da8;
+    
+    /* 背景颜色 */
+    --bg-color: #f3e5f5;
+    --card-bg: #ffffff;
+    --sidebar-bg: #ede7f6;
+    --toolbar-bg: #ffffff;
+    --status-bar-bg: #ede7f6;
+    --input-bg: #ffffff;
+    
+    /* 文字颜色 */
+    --text-color: #4a148c;
+    --text-secondary: #9c27b0;
+    
+    /* 边框颜色 */
+    --border-color: #e1bee7;
+    
+    /* 交互颜色 */
+    --hover-bg: #ede7f6;
+    --active-bg: #d1c4e9;
+    
+    /* 图标颜色 */
+    --icon-color: #9c27b0;
+    --folder-color: #ba68c8;
+    --bookmark-color: #7b1fa2;
+    
+    /* 滚动条颜色 */
+    --scrollbar-track: #ede7f6;
+    --scrollbar-thumb: #b39ddb;
+    --scrollbar-thumb-hover: #9575cd;
+}
+
+/* 深色紫色主题 */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #1a1a2e;
+        --card-bg: #2d2d3a;
+        --sidebar-bg: #252542;
+        --toolbar-bg: #2d2d3a;
+        --status-bar-bg: #252542;
+        --input-bg: #2d2d3a;
+        
+        --text-color: #e0e0e0;
+        --text-secondary: #b388ff;
+        
+        --border-color: #4a4a6a;
+        
+        --hover-bg: #3a3a5a;
+        --active-bg: #4a4a7a;
+        
+        --icon-color: #b388ff;
+        --folder-color: #ce93d8;
+        --bookmark-color: #9575cd;
+        
+        --scrollbar-track: #2d2d3a;
+        --scrollbar-thumb: #6a6a8a;
+        --scrollbar-thumb-hover: #7a7a9a;
+    }
+}
