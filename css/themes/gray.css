@@ -1,0 +1,102 @@
+/* 灰色主题 - 带有高级纹理 */
+:root {
+    /* 基础颜色 */
+    --primary-color: #607d8b;
+    --primary-text: #ffffff;
+    --secondary-color: #455a64;
+    
+    /* 背景颜色 */
+    --bg-color: #f5f5f5;
+    --card-bg: #ffffff;
+    --sidebar-bg: #eceff1;
+    --toolbar-bg: #ffffff;
+    --status-bar-bg: #eceff1;
+    --input-bg: #ffffff;
+    
+    /* 文字颜色 */
+    --text-color: #263238;
+    --text-secondary: #546e7a;
+    
+    /* 边框颜色 */
+    --border-color: #cfd8dc;
+    
+    /* 交互颜色 */
+    --hover-bg: #eceff1;
+    --active-bg: #cfd8dc;
+    
+    /* 图标颜色 */
+    --icon-color: #546e7a;
+    --folder-color: #78909c;
+    --bookmark-color: #607d8b;
+    
+    /* 滚动条颜色 */
+    --scrollbar-track: #eceff1;
+    --scrollbar-thumb: #b0bec5;
+    --scrollbar-thumb-hover: #90a4ae;
+    
+    /* 高级纹理 */
+    --texture-light: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23607d8b' fill-opacity='0.05' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+
+/* 应用纹理到背景 */
+body {
+    background-image: var(--texture-light);
+    background-color: var(--bg-color);
+}
+
+.sidebar, .toolbar, .status-bar {
+    position: relative;
+}
+
+.sidebar::before, .toolbar::before, .status-bar::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: var(--texture-light);
+    opacity: 0.5;
+    z-index: -1;
+    pointer-events: none;
+}
+
+.card {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* 深色灰色主题 */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #263238;
+        --card-bg: #37474f;
+        --sidebar-bg: #2c3e50;
+        --toolbar-bg: #37474f;
+        --status-bar-bg: #2c3e50;
+        --input-bg: #37474f;
+        
+        --text-color: #eceff1;
+        --text-secondary: #b0bec5;
+        
+        --border-color: #455a64;
+        
+        --hover-bg: #455a64;
+        --active-bg: #546e7a;
+        
+        --icon-color: #b0bec5;
+        --folder-color: #90a4ae;
+        --bookmark-color: #78909c;
+        
+        --scrollbar-track: #37474f;
+        --scrollbar-thumb: #546e7a;
+        --scrollbar-thumb-hover: #607d8b;
+        
+        /* 深色纹理 */
+        --texture-light: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23b0bec5' fill-opacity='0.05' fill-rule='evenodd'/%3E%3C/svg%3E");
+    }
+}
