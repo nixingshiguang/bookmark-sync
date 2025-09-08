@@ -2,6 +2,10 @@
 
 一个现代化的书签管理和导航系统，支持多种视图模式、主题切换和智能搜索功能。
 
+## 浏览器扩展
+
+请移步至[bookmark-sync-extension](https://github.com/nixingshiguang/bookmark-sync-extension)项目
+
 ## 🌟 功能特性
 
 ### 📁 书签管理
