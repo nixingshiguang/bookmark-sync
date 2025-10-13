@@ -19,7 +19,7 @@ export async function onRequest(context) {
         // 把请求体中的书签数据验证为JSON格式后存储到kv中
         const body = await request.json();
         const bookmarkData = JSON.stringify(body);
-        await KvData.put('bookmarkData', bookmarkData);
+        await KV_DEFAULT.put('bookmarkData', bookmarkData);
         // 返回成功响应
         return new Response(JSON.stringify({ "success": true }), {
             status: 200,

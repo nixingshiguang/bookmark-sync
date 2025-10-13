@@ -3,7 +3,7 @@ export async function onRequest(context) {
         const { request, env } = context;
 
         // 从kv中获取书签数据
-        const bookmarkData = await KvData.get('bookmarkData');
+        const bookmarkData = await KV_DEFAULT.get('bookmarkData');
 
         let headers = {
             'Content-Type': 'application/json',
